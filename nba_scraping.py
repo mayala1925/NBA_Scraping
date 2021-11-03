@@ -73,7 +73,7 @@ def get_stats(year,month):
 nba_stats = get_stats(2022,months)
 
 # Writing the data into a csv for classifier use.
-nba_stats.to_csv('nba_scrapping_data/nba_stats.csv')
+nba_stats.to_csv('nba_scrapping_data/nba_stats.csv',index = False)
 
 
 # Option to write to an excel file (NEED TO EDIT).
