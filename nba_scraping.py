@@ -3,9 +3,8 @@
 """
 Created on Wed Dec 23 11:00:15 2020
 
-@author: matthewayala
+@author: matthew ayala
 """
-
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
@@ -13,20 +12,21 @@ import pandas as pd
 import numpy as np
 
 # NBA Season to analyze
-year = 2022 # Season
-months = ['october','november'] # Months of the season
+# year = 2022  # Season
+months = ['october', 'november']  # Months of the season
 
-def get_stats(year,month):
+
+def get_stats(year, month):
     # Creating an empty dataframe to append stats too.
     cols = ['date', 'start', 'away', 'away_pts', 'home', 'home_pts', 'attend']
-    final_df = pd.DataFrame(columns = cols)
+    final_df = pd.DataFrame(columns=cols)
 
     for i in month:
         url = f"https://www.basketball-reference.com/leagues/NBA_{year}_games-{i}.html"
 
         # HTML from the given URL
         html = urlopen(url)
-        soup = BeautifulSoup(html, features = 'lxml')
+        soup = BeautifulSoup(html, features='lxml')
         soup.findAll("tr", limit=2)
 
         # Using getText to extract the text needed
@@ -70,18 +70,12 @@ def get_stats(year,month):
 
     return final_df
 
-nba_stats = get_stats(2022,months)
+
+nba_stats = get_stats(2022, months)
 
 # Writing the data into a csv for classifier use.
-nba_stats.to_csv('nba_scrapping_data/nba_stats.csv',index = False)
-
+nba_stats.to_csv('nba_scrapping_data/nba_schedule.csv', index=False)
 
 # Option to write to an excel file (NEED TO EDIT).
 # with pd.ExcelWriter('nba_scraping.xlsx') as writer:
 #     nba_stats.to_excel(writer, sheet_name='Main NBA Data')
-
-
-
-
-
-
