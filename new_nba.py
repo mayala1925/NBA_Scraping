@@ -12,7 +12,7 @@ ratings_dict = {}
 
 # Creating time delta to read in data from a stretch of days.
 sdate = date(2021, 11, 15)   # start date
-edate = date(2021, 11, 19)   # end date
+edate = date(2021, 11, 20)   # end date
 
 delta = edate - sdate       # as timedelta
 
@@ -67,10 +67,26 @@ schedule = schedule.drop(schedule[schedule['date'] > np.datetime64(edate)].index
 # Resetting the index
 schedule = schedule.reset_index(drop = True)
 
+# Function that to convert stat values to floats because they were in lists of 1
+def take_out_list(column):
+    replace_col = []
+    for i in column:
+        val = i[0]
+        replace_col.append(val)
+
+    return replace_col
+
+# looping through each column that needs to be converted from a list
+for i in schedule.columns[5:13]:
+   schedule[i] = take_out_list(schedule[i])
+
+schedule.to_csv(f'nba_scrapping_data/schedule_ratings.csv',index = False)
+
+
+
 
 # print(ratings_df.info())
 # print(schedule.info())
-# see = ratings_dict[np.datetime64('2021-11-15')]
 
 
 
