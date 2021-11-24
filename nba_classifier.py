@@ -23,7 +23,7 @@ classifier_data = data.dropna()
 
 # Taking the rows that were dropped to make predictions.
 pred_rows = data[data['date'] >= str(today)]
-pred_features = pred_rows[pred_rows.columns[5:13]]
+pred_features = pred_rows[pred_rows.columns[5:21]]
 
 # Encoding labels to 1's and 0's
 # label_codes = {'home':1, 'away':0}
@@ -31,7 +31,7 @@ pred_features = pred_rows[pred_rows.columns[5:13]]
 # classifier_data['winner'] = classifier_data['winner'].map(label_codes)
 
 # Selecting the columns with the stats we want to use as features
-features = classifier_data[classifier_data.columns[5:13]]
+features = classifier_data[classifier_data.columns[5:21]]
 
 
 N_SPLITS = 5
