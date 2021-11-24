@@ -11,7 +11,10 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import SVC
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.metrics import accuracy_score
+from datetime import date
 
+
+today = date.today()
 # Reading in the data.
 data = pd.read_csv('nba_scrapping_data/schedule_ratings.csv')
 
@@ -19,7 +22,7 @@ data = pd.read_csv('nba_scrapping_data/schedule_ratings.csv')
 classifier_data = data.dropna()
 
 # Taking the rows that were dropped to make predictions.
-pred_rows = data[data['date'] >= '2021-11-22']
+pred_rows = data[data['date'] >= str(today)]
 pred_features = pred_rows[pred_rows.columns[5:13]]
 
 # Encoding labels to 1's and 0's

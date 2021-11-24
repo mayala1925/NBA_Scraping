@@ -11,8 +11,10 @@ schedule = pd.read_csv('nba_scrapping_data/nba_schedule.csv')
 ratings_dict = {}
 
 # Creating time delta to read in data from a stretch of days.
+today = date.today()
+
 sdate = date(2021, 11, 15)   # start date
-edate = date(2021, 11, 22)   # end date
+edate = today   # end date
 
 delta = edate - sdate       # as timedelta
 
