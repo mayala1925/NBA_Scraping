@@ -25,7 +25,7 @@ classifier_data = data.dropna()
 pred_rows = data[data['date'] >= str(today)]
 pred_features = pred_rows[pred_rows.columns[5:21]]
 
-# Encoding labels to 1's and 0's
+# Encoding labels to 1's and 0's (Not sure if this makes any difference?)
 # label_codes = {'home':1, 'away':0}
 #
 # classifier_data['winner'] = classifier_data['winner'].map(label_codes)
@@ -68,6 +68,7 @@ pipe_dict = {0: 'Logistic Regression',
 X_train, X_test, y_train, y_test = train_test_split(features, classifier_data['winner'], test_size=0.2, random_state=0)
 
 
+# Commented out lines are for kfold train/test splits, should implement later.
 kf = KFold(n_splits=N_SPLITS)
 # acc_score = []
 
@@ -85,15 +86,14 @@ kf = KFold(n_splits=N_SPLITS)
 #
 # print(f'Accuracy of each fold: {acc_score}')
 # print(f'Average accuracy score: {avg_score}')
-# predictions_df = pd.DataFrame()
 
 
 
 predictions = []
 for pipe in pipelines:
     pipe.fit(X_train, y_train)
-    real_preds = pipe.predict(pred_features)
-    predictions.append(real_preds)
+    # real_preds = pipe.predict(pred_features)
+    # predictions.append(real_preds)
 
 
 for i, model in enumerate(pipelines):
