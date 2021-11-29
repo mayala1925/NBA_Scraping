@@ -298,11 +298,11 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-11-27,8:00p,Charlotte Hornets,143.0,Houston Rockets,146.0,14687.0,home
 2021-11-27,8:30p,Washington Wizards,120.0,Dallas Mavericks,114.0,20223.0,away
 2021-11-27,9:00p,New Orleans Pelicans,105.0,Utah Jazz,127.0,18306.0,home
-2021-11-28,3:30p,Golden State Warriors,,Los Angeles Clippers,,,home
-2021-11-28,5:00p,Milwaukee Bucks,,Indiana Pacers,,,home
-2021-11-28,6:00p,Sacramento Kings,,Memphis Grizzlies,,,home
-2021-11-28,6:00p,Boston Celtics,,Toronto Raptors,,,home
-2021-11-28,9:30p,Detroit Pistons,,Los Angeles Lakers,,,home
+2021-11-28,3:30p,Golden State Warriors,105.0,Los Angeles Clippers,90.0,19068.0,away
+2021-11-28,5:00p,Milwaukee Bucks,118.0,Indiana Pacers,100.0,13130.0,away
+2021-11-28,6:00p,Sacramento Kings,101.0,Memphis Grizzlies,128.0,12844.0,home
+2021-11-28,6:00p,Boston Celtics,109.0,Toronto Raptors,97.0,19800.0,away
+2021-11-28,9:30p,Detroit Pistons,106.0,Los Angeles Lakers,110.0,18997.0,home
 2021-11-29,7:00p,Orlando Magic,,Philadelphia 76ers,,,home
 2021-11-29,7:30p,Denver Nuggets,,Miami Heat,,,home
 2021-11-29,8:00p,Charlotte Hornets,,Chicago Bulls,,,home
