@@ -9,7 +9,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import SVC
+from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.model_selection import cross_val_score
 from sklearn.metrics import accuracy_score
 from datetime import date
 
@@ -32,6 +34,7 @@ pred_features = pred_rows[pred_rows.columns[5:21]]
 
 # Selecting the columns with the stats we want to use as features
 features = classifier_data[classifier_data.columns[5:21]]
+target = classifier_data[classifier_data.columns[-1]]
 
 
 N_SPLITS = 5
@@ -67,9 +70,23 @@ pipe_dict = {0: 'Logistic Regression',
 
 X_train, X_test, y_train, y_test = train_test_split(features, classifier_data['winner'], test_size=0.2, random_state=0)
 
+predictions = []
+for pipe in pipelines:
+    pipe.fit(X_train, y_train)
+    # real_preds = pipe.predict(pred_features)
+    # predictions.append(real_preds)
 
+
+for i, model in enumerate(pipelines):
+    print(f'{pipe_dict[i]} Test Accuracy: {model.score(X_test,y_test)}')
+
+#%%
 # Commented out lines are for kfold train/test splits, should implement later.
 kf = KFold(n_splits=N_SPLITS)
+
+# print(pipeline_lda.predict(X_test))
+# print(y_test)
+
 # acc_score = []
 
 # for train_index, test_index in kf.split(features):
@@ -87,20 +104,12 @@ kf = KFold(n_splits=N_SPLITS)
 # print(f'Accuracy of each fold: {acc_score}')
 # print(f'Average accuracy score: {avg_score}')
 
+#%%
+# Trying Gradient Boosting Classifier
 
+gbm = GradientBoostingClassifier(random_state=1, n_estimators=120, learning_rate= 0.1, max_depth=3)
+cv = StratifiedKFold(n_splits=5,random_state=1, shuffle=True)
 
-predictions = []
-for pipe in pipelines:
-    pipe.fit(X_train, y_train)
-    # real_preds = pipe.predict(pred_features)
-    # predictions.append(real_preds)
+n_scores = cross_val_score(gbm, features, y=target, scoring='accuracy', cv=cv, n_jobs=-1, error_score='raise')
 
-
-for i, model in enumerate(pipelines):
-    print(f'{pipe_dict[i]} Test Accuracy: {model.score(X_test,y_test)}')
-
-
-
-
-# print(pipeline_lda.predict(X_test))
-# print(y_test)
+print(f'Accuracy: {np.mean(n_scores)}, {np.std(n_scores)}')

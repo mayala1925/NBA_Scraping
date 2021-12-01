@@ -92,228 +92,448 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-10-31,7:00p,Utah Jazz,107,Milwaukee Bucks,95,17341.0,away
 2021-10-31,7:30p,Detroit Pistons,91,Brooklyn Nets,117,13507.0,home
 2021-10-31,10:30p,Houston Rockets,85,Los Angeles Lakers,95,16448.0,home
-2021-11-01,7:00p,Cleveland Cavaliers,113.0,Charlotte Hornets,110.0,13889.0,away
-2021-11-01,7:00p,San Antonio Spurs,118.0,Indiana Pacers,131.0,10227.0,home
-2021-11-01,7:00p,Portland Trail Blazers,103.0,Philadelphia 76ers,113.0,20115.0,home
-2021-11-01,7:30p,Washington Wizards,111.0,Atlanta Hawks,118.0,14632.0,home
-2021-11-01,7:30p,Chicago Bulls,128.0,Boston Celtics,114.0,19156.0,away
-2021-11-01,7:30p,Toronto Raptors,113.0,New York Knicks,104.0,16528.0,away
-2021-11-01,8:00p,Denver Nuggets,97.0,Memphis Grizzlies,106.0,12683.0,home
-2021-11-01,8:00p,Orlando Magic,115.0,Minnesota Timberwolves,97.0,14744.0,away
-2021-11-01,10:30p,Oklahoma City Thunder,94.0,Los Angeles Clippers,99.0,13722.0,home
-2021-11-02,7:00p,Milwaukee Bucks,117.0,Detroit Pistons,89.0,9254.0,away
-2021-11-02,7:30p,Miami Heat,125.0,Dallas Mavericks,110.0,19255.0,away
-2021-11-02,9:00p,Sacramento Kings,113.0,Utah Jazz,119.0,18306.0,home
-2021-11-02,10:00p,New Orleans Pelicans,100.0,Phoenix Suns,112.0,14323.0,home
-2021-11-02,10:30p,Houston Rockets,117.0,Los Angeles Lakers,119.0,18997.0,home
-2021-11-03,7:00p,Portland Trail Blazers,104.0,Cleveland Cavaliers,107.0,16231.0,home
-2021-11-03,7:00p,New York Knicks,98.0,Indiana Pacers,111.0,11607.0,home
-2021-11-03,7:00p,Boston Celtics,92.0,Orlando Magic,79.0,12735.0,away
-2021-11-03,7:00p,Chicago Bulls,98.0,Philadelphia 76ers,103.0,20438.0,home
-2021-11-03,7:00p,Toronto Raptors,109.0,Washington Wizards,100.0,13538.0,away
-2021-11-03,7:30p,Atlanta Hawks,108.0,Brooklyn Nets,117.0,17323.0,home
-2021-11-03,8:00p,Denver Nuggets,106.0,Memphis Grizzlies,108.0,12977.0,home
-2021-11-03,8:00p,Los Angeles Clippers,126.0,Minnesota Timberwolves,115.0,15386.0,away
-2021-11-03,8:30p,Dallas Mavericks,109.0,San Antonio Spurs,108.0,16356.0,away
-2021-11-03,10:00p,Charlotte Hornets,92.0,Golden State Warriors,114.0,18064.0,home
-2021-11-03,10:00p,New Orleans Pelicans,99.0,Sacramento Kings,112.0,0.0,home
-2021-11-04,7:00p,Philadelphia 76ers,109.0,Detroit Pistons,98.0,8702.0,away
-2021-11-04,7:30p,Utah Jazz,116.0,Atlanta Hawks,98.0,16590.0,away
-2021-11-04,7:30p,Boston Celtics,95.0,Miami Heat,78.0,19600.0,away
-2021-11-04,10:00p,Houston Rockets,111.0,Phoenix Suns,123.0,15058.0,home
-2021-11-04,10:30p,Oklahoma City Thunder,107.0,Los Angeles Lakers,104.0,18997.0,away
-2021-11-05,7:00p,Brooklyn Nets,96.0,Detroit Pistons,90.0,14235.0,away
-2021-11-05,7:00p,San Antonio Spurs,102.0,Orlando Magic,89.0,14101.0,away
-2021-11-05,7:00p,Memphis Grizzlies,87.0,Washington Wizards,115.0,16302.0,home
-2021-11-05,7:30p,New York Knicks,113.0,Milwaukee Bucks,98.0,17341.0,away
-2021-11-05,7:30p,Cleveland Cavaliers,102.0,Toronto Raptors,101.0,19800.0,away
-2021-11-05,8:00p,Los Angeles Clippers,104.0,Minnesota Timberwolves,84.0,17136.0,away
-2021-11-05,10:00p,New Orleans Pelicans,85.0,Golden State Warriors,126.0,18064.0,home
-2021-11-05,10:00p,Indiana Pacers,106.0,Portland Trail Blazers,110.0,16841.0,home
-2021-11-05,10:00p,Charlotte Hornets,110.0,Sacramento Kings,140.0,14905.0,home
-2021-11-06,5:00p,Houston Rockets,94.0,Denver Nuggets,95.0,16046.0,home
-2021-11-06,7:30p,Utah Jazz,115.0,Miami Heat,118.0,19600.0,home
-2021-11-06,8:00p,Philadelphia 76ers,114.0,Chicago Bulls,105.0,20936.0,away
-2021-11-06,8:30p,Boston Celtics,104.0,Dallas Mavericks,107.0,20052.0,home
-2021-11-06,10:00p,Atlanta Hawks,117.0,Phoenix Suns,121.0,15412.0,home
-2021-11-06,10:30p,Los Angeles Lakers,90.0,Portland Trail Blazers,105.0,19393.0,home
-2021-11-07,3:30p,Brooklyn Nets,116.0,Toronto Raptors,103.0,19800.0,away
-2021-11-07,6:00p,Cleveland Cavaliers,126.0,New York Knicks,109.0,19040.0,away
-2021-11-07,6:00p,Utah Jazz,100.0,Orlando Magic,107.0,13386.0,home
-2021-11-07,6:00p,Indiana Pacers,94.0,Sacramento Kings,91.0,12993.0,away
-2021-11-07,6:00p,Milwaukee Bucks,94.0,Washington Wizards,101.0,15570.0,home
-2021-11-07,7:00p,San Antonio Spurs,94.0,Oklahoma City Thunder,99.0,12972.0,home
-2021-11-07,8:30p,Houston Rockets,107.0,Golden State Warriors,120.0,18064.0,home
-2021-11-07,9:00p,Charlotte Hornets,106.0,Los Angeles Clippers,120.0,15781.0,home
-2021-11-08,7:00p,New York Knicks,103.0,Philadelphia 76ers,96.0,20224.0,away
-2021-11-08,8:00p,Brooklyn Nets,95.0,Chicago Bulls,118.0,19459.0,home
-2021-11-08,8:00p,Minnesota Timberwolves,118.0,Memphis Grizzlies,125.0,12416.0,home
-2021-11-08,8:30p,New Orleans Pelicans,92.0,Dallas Mavericks,108.0,19231.0,home
-2021-11-08,9:00p,Miami Heat,96.0,Denver Nuggets,113.0,15577.0,home
-2021-11-08,10:00p,Atlanta Hawks,113.0,Golden State Warriors,127.0,18064.0,home
-2021-11-08,10:00p,Phoenix Suns,109.0,Sacramento Kings,104.0,13566.0,away
-2021-11-08,10:30p,Charlotte Hornets,123.0,Los Angeles Lakers,126.0,18997.0,home
-2021-11-09,7:30p,Milwaukee Bucks,118.0,Philadelphia 76ers,109.0,20029.0,away
-2021-11-09,9:00p,Atlanta Hawks,98.0,Utah Jazz,110.0,18306.0,home
-2021-11-09,10:00p,Portland Trail Blazers,109.0,Los Angeles Clippers,117.0,14131.0,home
-2021-11-10,7:00p,Washington Wizards,97.0,Cleveland Cavaliers,94.0,18056.0,away
-2021-11-10,7:00p,Brooklyn Nets,123.0,Orlando Magic,90.0,13882.0,away
-2021-11-10,7:30p,Toronto Raptors,88.0,Boston Celtics,104.0,19156.0,home
-2021-11-10,7:30p,Detroit Pistons,112.0,Houston Rockets,104.0,15350.0,away
-2021-11-10,7:30p,Milwaukee Bucks,112.0,New York Knicks,100.0,18027.0,away
-2021-11-10,8:00p,Dallas Mavericks,107.0,Chicago Bulls,117.0,20910.0,home
-2021-11-10,8:00p,Charlotte Hornets,118.0,Memphis Grizzlies,108.0,13880.0,away
-2021-11-10,8:00p,Oklahoma City Thunder,108.0,New Orleans Pelicans,100.0,15355.0,away
-2021-11-10,8:30p,Sacramento Kings,117.0,San Antonio Spurs,136.0,15065.0,home
-2021-11-10,9:00p,Indiana Pacers,98.0,Denver Nuggets,101.0,15232.0,home
-2021-11-10,9:00p,Portland Trail Blazers,109.0,Phoenix Suns,119.0,15672.0,home
-2021-11-10,10:00p,Minnesota Timberwolves,110.0,Golden State Warriors,123.0,18064.0,home
-2021-11-10,10:00p,Miami Heat,117.0,Los Angeles Lakers,120.0,18997.0,home
-2021-11-11,7:00p,Toronto Raptors,115.0,Philadelphia 76ers,109.0,20112.0,away
-2021-11-11,9:00p,Indiana Pacers,111.0,Utah Jazz,100.0,18306.0,away
-2021-11-11,10:30p,Miami Heat,109.0,Los Angeles Clippers,112.0,16150.0,home
-2021-11-12,7:00p,New York Knicks,96.0,Charlotte Hornets,104.0,19257.0,home
-2021-11-12,7:30p,Milwaukee Bucks,113.0,Boston Celtics,122.0,19156.0,home
-2021-11-12,7:30p,Detroit Pistons,78.0,Cleveland Cavaliers,98.0,17095.0,home
-2021-11-12,8:00p,Portland Trail Blazers,104.0,Houston Rockets,92.0,15468.0,away
-2021-11-12,8:00p,Phoenix Suns,119.0,Memphis Grizzlies,94.0,15886.0,away
-2021-11-12,8:00p,Brooklyn Nets,120.0,New Orleans Pelicans,112.0,14650.0,away
-2021-11-12,8:00p,Sacramento Kings,103.0,Oklahoma City Thunder,105.0,12881.0,home
-2021-11-12,8:30p,Dallas Mavericks,123.0,San Antonio Spurs,109.0,13425.0,away
-2021-11-12,9:00p,Atlanta Hawks,96.0,Denver Nuggets,105.0,16849.0,home
-2021-11-12,10:00p,Chicago Bulls,93.0,Golden State Warriors,119.0,18064.0,home
-2021-11-12,10:30p,Minnesota Timberwolves,107.0,Los Angeles Lakers,83.0,18997.0,away
-2021-11-13,5:00p,Miami Heat,111.0,Utah Jazz,105.0,18306.0,away
-2021-11-13,7:00p,Philadelphia 76ers,113.0,Indiana Pacers,118.0,14483.0,home
-2021-11-13,7:00p,Memphis Grizzlies,101.0,New Orleans Pelicans,112.0,14358.0,home
-2021-11-13,7:00p,Washington Wizards,104.0,Orlando Magic,92.0,17272.0,away
-2021-11-13,7:30p,Detroit Pistons,127.0,Toronto Raptors,121.0,19800.0,away
-2021-11-13,8:00p,Boston Celtics,89.0,Cleveland Cavaliers,91.0,19432.0,home
-2021-11-13,10:30p,Minnesota Timberwolves,102.0,Los Angeles Clippers,129.0,15285.0,home
-2021-11-14,3:30p,San Antonio Spurs,106.0,Los Angeles Lakers,114.0,18997.0,home
-2021-11-14,6:00p,Milwaukee Bucks,100.0,Atlanta Hawks,120.0,16901.0,home
-2021-11-14,7:00p,Golden State Warriors,102.0,Charlotte Hornets,106.0,19559.0,home
-2021-11-14,7:00p,Phoenix Suns,115.0,Houston Rockets,89.0,16088.0,away
-2021-11-14,7:00p,Brooklyn Nets,120.0,Oklahoma City Thunder,96.0,15080.0,away
-2021-11-14,8:00p,Portland Trail Blazers,95.0,Denver Nuggets,124.0,14583.0,home
-2021-11-14,9:30p,Chicago Bulls,100.0,Los Angeles Clippers,90.0,17899.0,away
-2021-11-15,7:00p,Boston Celtics,98.0,Cleveland Cavaliers,92.0,17186.0,away
-2021-11-15,7:00p,Sacramento Kings,129.0,Detroit Pistons,107.0,10092.0,away
-2021-11-15,7:00p,New Orleans Pelicans,100.0,Washington Wizards,105.0,13914.0,home
-2021-11-15,7:30p,Orlando Magic,111.0,Atlanta Hawks,129.0,13061.0,home
-2021-11-15,7:30p,Indiana Pacers,84.0,New York Knicks,92.0,16792.0,home
-2021-11-15,8:00p,Denver Nuggets,101.0,Dallas Mavericks,111.0,19797.0,home
-2021-11-15,8:00p,Houston Rockets,102.0,Memphis Grizzlies,136.0,11482.0,home
-2021-11-15,8:00p,Phoenix Suns,99.0,Minnesota Timberwolves,96.0,16274.0,away
-2021-11-15,8:00p,Miami Heat,103.0,Oklahoma City Thunder,90.0,12330.0,away
-2021-11-15,10:00p,Toronto Raptors,113.0,Portland Trail Blazers,118.0,16142.0,home
-2021-11-15,10:30p,Chicago Bulls,121.0,Los Angeles Lakers,103.0,18997.0,away
-2021-11-16,7:30p,Golden State Warriors,117.0,Brooklyn Nets,99.0,17732.0,away
-2021-11-16,10:00p,Philadelphia 76ers,85.0,Utah Jazz,120.0,18306.0,home
-2021-11-16,10:30p,San Antonio Spurs,92.0,Los Angeles Clippers,106.0,13298.0,home
-2021-11-17,7:00p,Washington Wizards,87.0,Charlotte Hornets,97.0,14402.0,home
-2021-11-17,7:00p,Indiana Pacers,89.0,Detroit Pistons,97.0,11457.0,home
-2021-11-17,7:30p,Boston Celtics,99.0,Atlanta Hawks,110.0,16445.0,home
-2021-11-17,7:30p,Cleveland Cavaliers,99.0,Brooklyn Nets,109.0,16922.0,home
-2021-11-17,7:30p,New Orleans Pelicans,98.0,Miami Heat,113.0,19600.0,home
-2021-11-17,7:30p,Los Angeles Lakers,102.0,Milwaukee Bucks,109.0,17341.0,home
-2021-11-17,7:30p,Orlando Magic,104.0,New York Knicks,98.0,16680.0,away
-2021-11-17,8:00p,Sacramento Kings,97.0,Minnesota Timberwolves,107.0,13108.0,home
-2021-11-17,8:00p,Houston Rockets,89.0,Oklahoma City Thunder,101.0,12066.0,home
-2021-11-17,10:00p,Dallas Mavericks,98.0,Phoenix Suns,105.0,14838.0,home
-2021-11-17,10:00p,Chicago Bulls,107.0,Portland Trail Blazers,112.0,17492.0,home
-2021-11-18,7:30p,Golden State Warriors,104.0,Cleveland Cavaliers,89.0,19432.0,away
-2021-11-18,7:30p,Washington Wizards,97.0,Miami Heat,112.0,19600.0,home
-2021-11-18,8:00p,Los Angeles Clippers,108.0,Memphis Grizzlies,120.0,13419.0,home
-2021-11-18,8:00p,San Antonio Spurs,90.0,Minnesota Timberwolves,115.0,13572.0,home
-2021-11-18,9:00p,Philadelphia 76ers,103.0,Denver Nuggets,89.0,14547.0,away
-2021-11-18,9:00p,Toronto Raptors,103.0,Utah Jazz,119.0,18306.0,home
-2021-11-19,7:00p,Indiana Pacers,118.0,Charlotte Hornets,121.0,16787.0,home
-2021-11-19,7:00p,Golden State Warriors,105.0,Detroit Pistons,102.0,20088.0,away
-2021-11-19,7:30p,Los Angeles Lakers,108.0,Boston Celtics,130.0,19156.0,home
-2021-11-19,7:30p,Orlando Magic,113.0,Brooklyn Nets,115.0,16966.0,home
-2021-11-19,8:00p,Oklahoma City Thunder,89.0,Milwaukee Bucks,96.0,17341.0,home
-2021-11-19,8:00p,Los Angeles Clippers,81.0,New Orleans Pelicans,94.0,15274.0,home
-2021-11-19,9:00p,Chicago Bulls,114.0,Denver Nuggets,108.0,19520.0,away
-2021-11-19,10:00p,Dallas Mavericks,104.0,Phoenix Suns,112.0,17071.0,home
-2021-11-19,10:00p,Toronto Raptors,108.0,Sacramento Kings,89.0,13159.0,away
-2021-11-20,5:00p,Houston Rockets,99.0,New York Knicks,106.0,19812.0,home
-2021-11-20,7:00p,New Orleans Pelicans,94.0,Indiana Pacers,111.0,15081.0,home
-2021-11-20,7:00p,Miami Heat,100.0,Washington Wizards,103.0,20476.0,home
-2021-11-20,7:30p,Charlotte Hornets,105.0,Atlanta Hawks,115.0,17320.0,home
-2021-11-20,7:30p,Oklahoma City Thunder,105.0,Boston Celtics,111.0,19156.0,home
-2021-11-20,8:00p,Orlando Magic,108.0,Milwaukee Bucks,117.0,17341.0,home
-2021-11-20,8:00p,Memphis Grizzlies,95.0,Minnesota Timberwolves,138.0,17136.0,home
-2021-11-20,10:00p,Philadelphia 76ers,111.0,Portland Trail Blazers,118.0,17027.0,home
-2021-11-20,10:00p,Utah Jazz,123.0,Sacramento Kings,105.0,13180.0,away
-2021-11-21,3:30p,Dallas Mavericks,91.0,Los Angeles Clippers,97.0,17149.0,home
-2021-11-21,6:00p,Los Angeles Lakers,121.0,Detroit Pistons,116.0,15532.0,away
-2021-11-21,8:00p,New York Knicks,103.0,Chicago Bulls,109.0,21813.0,home
-2021-11-21,8:00p,Denver Nuggets,97.0,Phoenix Suns,126.0,16072.0,home
-2021-11-21,8:30p,Toronto Raptors,104.0,Golden State Warriors,119.0,18064.0,home
-2021-11-22,7:00p,Brooklyn Nets,117.0,Cleveland Cavaliers,112.0,17387.0,away
-2021-11-22,7:00p,Charlotte Hornets,109.0,Washington Wizards,103.0,16575.0,away
-2021-11-22,7:30p,Oklahoma City Thunder,101.0,Atlanta Hawks,113.0,15806.0,home
-2021-11-22,7:30p,Houston Rockets,90.0,Boston Celtics,108.0,19156.0,home
-2021-11-22,8:00p,Indiana Pacers,109.0,Chicago Bulls,77.0,21586.0,away
-2021-11-22,8:00p,Orlando Magic,92.0,Milwaukee Bucks,123.0,17341.0,home
-2021-11-22,8:00p,Minnesota Timberwolves,110.0,New Orleans Pelicans,96.0,15689.0,away
-2021-11-22,8:30p,Phoenix Suns,115.0,San Antonio Spurs,111.0,14715.0,away
-2021-11-22,9:00p,Memphis Grizzlies,119.0,Utah Jazz,118.0,18306.0,away
-2021-11-22,10:00p,Philadelphia 76ers,102.0,Sacramento Kings,94.0,13948.0,away
-2021-11-23,7:00p,Miami Heat,100.0,Detroit Pistons,92.0,13123.0,away
-2021-11-23,7:30p,Los Angeles Lakers,100.0,New York Knicks,106.0,19812.0,home
-2021-11-23,10:00p,Denver Nuggets,100.0,Portland Trail Blazers,119.0,17052.0,home
-2021-11-23,10:30p,Dallas Mavericks,112.0,Los Angeles Clippers,104.0,17067.0,away
-2021-11-24,7:00p,Phoenix Suns,120.0,Cleveland Cavaliers,115.0,18055.0,away
-2021-11-24,7:00p,Los Angeles Lakers,124.0,Indiana Pacers,116.0,15572.0,away
-2021-11-24,7:00p,Charlotte Hornets,106.0,Orlando Magic,99.0,16114.0,away
-2021-11-24,7:30p,Brooklyn Nets,123.0,Boston Celtics,104.0,19156.0,away
-2021-11-24,8:00p,Chicago Bulls,113.0,Houston Rockets,118.0,16074.0,home
-2021-11-24,8:00p,Toronto Raptors,126.0,Memphis Grizzlies,113.0,15409.0,away
-2021-11-24,8:00p,Detroit Pistons,93.0,Milwaukee Bucks,114.0,17341.0,home
-2021-11-24,8:00p,Miami Heat,101.0,Minnesota Timberwolves,113.0,17136.0,home
-2021-11-24,8:00p,Washington Wizards,102.0,New Orleans Pelicans,127.0,14659.0,home
-2021-11-24,8:00p,Utah Jazz,110.0,Oklahoma City Thunder,104.0,14081.0,away
-2021-11-24,8:30p,Atlanta Hawks,124.0,San Antonio Spurs,106.0,13161.0,away
-2021-11-24,10:00p,Philadelphia 76ers,96.0,Golden State Warriors,116.0,18064.0,home
-2021-11-24,10:00p,Portland Trail Blazers,121.0,Sacramento Kings,125.0,14997.0,home
-2021-11-26,3:30p,Detroit Pistons,96.0,Los Angeles Clippers,107.0,18139.0,home
-2021-11-26,7:00p,Minnesota Timberwolves,115.0,Charlotte Hornets,133.0,19314.0,home
-2021-11-26,7:00p,Phoenix Suns,118.0,New York Knicks,97.0,19812.0,away
-2021-11-26,7:00p,Chicago Bulls,123.0,Orlando Magic,88.0,18236.0,away
-2021-11-26,8:00p,Toronto Raptors,97.0,Indiana Pacers,114.0,13508.0,home
-2021-11-26,8:00p,Atlanta Hawks,132.0,Memphis Grizzlies,100.0,16622.0,away
-2021-11-26,8:00p,Washington Wizards,101.0,Oklahoma City Thunder,99.0,14579.0,away
-2021-11-26,8:30p,Boston Celtics,88.0,San Antonio Spurs,96.0,15360.0,home
-2021-11-26,9:00p,Milwaukee Bucks,120.0,Denver Nuggets,109.0,19520.0,away
-2021-11-26,9:00p,New Orleans Pelicans,98.0,Utah Jazz,97.0,18306.0,away
-2021-11-26,10:00p,Portland Trail Blazers,103.0,Golden State Warriors,118.0,18064.0,home
-2021-11-26,10:30p,Sacramento Kings,141.0,Los Angeles Lakers,137.0,18997.0,away
-2021-11-27,6:00p,Minnesota Timberwolves,121.0,Philadelphia 76ers,120.0,21011.0,away
-2021-11-27,7:30p,New York Knicks,99.0,Atlanta Hawks,90.0,17287.0,away
-2021-11-27,7:30p,Phoenix Suns,113.0,Brooklyn Nets,107.0,18071.0,away
-2021-11-27,8:00p,Miami Heat,107.0,Chicago Bulls,104.0,21110.0,away
-2021-11-27,8:00p,Orlando Magic,92.0,Cleveland Cavaliers,105.0,18248.0,home
-2021-11-27,8:00p,Charlotte Hornets,143.0,Houston Rockets,146.0,14687.0,home
-2021-11-27,8:30p,Washington Wizards,120.0,Dallas Mavericks,114.0,20223.0,away
-2021-11-27,9:00p,New Orleans Pelicans,105.0,Utah Jazz,127.0,18306.0,home
-2021-11-28,3:30p,Golden State Warriors,105.0,Los Angeles Clippers,90.0,19068.0,away
-2021-11-28,5:00p,Milwaukee Bucks,118.0,Indiana Pacers,100.0,13130.0,away
-2021-11-28,6:00p,Sacramento Kings,101.0,Memphis Grizzlies,128.0,12844.0,home
-2021-11-28,6:00p,Boston Celtics,109.0,Toronto Raptors,97.0,19800.0,away
-2021-11-28,9:30p,Detroit Pistons,106.0,Los Angeles Lakers,110.0,18997.0,home
-2021-11-29,7:00p,Orlando Magic,,Philadelphia 76ers,,,home
-2021-11-29,7:30p,Denver Nuggets,,Miami Heat,,,home
-2021-11-29,8:00p,Charlotte Hornets,,Chicago Bulls,,,home
-2021-11-29,8:00p,Oklahoma City Thunder,,Houston Rockets,,,home
-2021-11-29,8:00p,Indiana Pacers,,Minnesota Timberwolves,,,home
-2021-11-29,8:30p,Cleveland Cavaliers,,Dallas Mavericks,,,home
-2021-11-29,8:30p,Washington Wizards,,San Antonio Spurs,,,home
-2021-11-29,9:00p,Portland Trail Blazers,,Utah Jazz,,,home
-2021-11-29,10:30p,New Orleans Pelicans,,Los Angeles Clippers,,,home
-2021-11-30,7:30p,New York Knicks,,Brooklyn Nets,,,home
-2021-11-30,7:30p,Memphis Grizzlies,,Toronto Raptors,,,home
-2021-11-30,10:00p,Golden State Warriors,,Phoenix Suns,,,home
-2021-11-30,10:00p,Detroit Pistons,,Portland Trail Blazers,,,home
-2021-11-30,10:00p,Los Angeles Lakers,,Sacramento Kings,,,home
+2021-11-01,7:00p,Cleveland Cavaliers,113,Charlotte Hornets,110,13889.0,away
+2021-11-01,7:00p,San Antonio Spurs,118,Indiana Pacers,131,10227.0,home
+2021-11-01,7:00p,Portland Trail Blazers,103,Philadelphia 76ers,113,20115.0,home
+2021-11-01,7:30p,Washington Wizards,111,Atlanta Hawks,118,14632.0,home
+2021-11-01,7:30p,Chicago Bulls,128,Boston Celtics,114,19156.0,away
+2021-11-01,7:30p,Toronto Raptors,113,New York Knicks,104,16528.0,away
+2021-11-01,8:00p,Denver Nuggets,97,Memphis Grizzlies,106,12683.0,home
+2021-11-01,8:00p,Orlando Magic,115,Minnesota Timberwolves,97,14744.0,away
+2021-11-01,10:30p,Oklahoma City Thunder,94,Los Angeles Clippers,99,13722.0,home
+2021-11-02,7:00p,Milwaukee Bucks,117,Detroit Pistons,89,9254.0,away
+2021-11-02,7:30p,Miami Heat,125,Dallas Mavericks,110,19255.0,away
+2021-11-02,9:00p,Sacramento Kings,113,Utah Jazz,119,18306.0,home
+2021-11-02,10:00p,New Orleans Pelicans,100,Phoenix Suns,112,14323.0,home
+2021-11-02,10:30p,Houston Rockets,117,Los Angeles Lakers,119,18997.0,home
+2021-11-03,7:00p,Portland Trail Blazers,104,Cleveland Cavaliers,107,16231.0,home
+2021-11-03,7:00p,New York Knicks,98,Indiana Pacers,111,11607.0,home
+2021-11-03,7:00p,Boston Celtics,92,Orlando Magic,79,12735.0,away
+2021-11-03,7:00p,Chicago Bulls,98,Philadelphia 76ers,103,20438.0,home
+2021-11-03,7:00p,Toronto Raptors,109,Washington Wizards,100,13538.0,away
+2021-11-03,7:30p,Atlanta Hawks,108,Brooklyn Nets,117,17323.0,home
+2021-11-03,8:00p,Denver Nuggets,106,Memphis Grizzlies,108,12977.0,home
+2021-11-03,8:00p,Los Angeles Clippers,126,Minnesota Timberwolves,115,15386.0,away
+2021-11-03,8:30p,Dallas Mavericks,109,San Antonio Spurs,108,16356.0,away
+2021-11-03,10:00p,Charlotte Hornets,92,Golden State Warriors,114,18064.0,home
+2021-11-03,10:00p,New Orleans Pelicans,99,Sacramento Kings,112,0.0,home
+2021-11-04,7:00p,Philadelphia 76ers,109,Detroit Pistons,98,8702.0,away
+2021-11-04,7:30p,Utah Jazz,116,Atlanta Hawks,98,16590.0,away
+2021-11-04,7:30p,Boston Celtics,95,Miami Heat,78,19600.0,away
+2021-11-04,10:00p,Houston Rockets,111,Phoenix Suns,123,15058.0,home
+2021-11-04,10:30p,Oklahoma City Thunder,107,Los Angeles Lakers,104,18997.0,away
+2021-11-05,7:00p,Brooklyn Nets,96,Detroit Pistons,90,14235.0,away
+2021-11-05,7:00p,San Antonio Spurs,102,Orlando Magic,89,14101.0,away
+2021-11-05,7:00p,Memphis Grizzlies,87,Washington Wizards,115,16302.0,home
+2021-11-05,7:30p,New York Knicks,113,Milwaukee Bucks,98,17341.0,away
+2021-11-05,7:30p,Cleveland Cavaliers,102,Toronto Raptors,101,19800.0,away
+2021-11-05,8:00p,Los Angeles Clippers,104,Minnesota Timberwolves,84,17136.0,away
+2021-11-05,10:00p,New Orleans Pelicans,85,Golden State Warriors,126,18064.0,home
+2021-11-05,10:00p,Indiana Pacers,106,Portland Trail Blazers,110,16841.0,home
+2021-11-05,10:00p,Charlotte Hornets,110,Sacramento Kings,140,14905.0,home
+2021-11-06,5:00p,Houston Rockets,94,Denver Nuggets,95,16046.0,home
+2021-11-06,7:30p,Utah Jazz,115,Miami Heat,118,19600.0,home
+2021-11-06,8:00p,Philadelphia 76ers,114,Chicago Bulls,105,20936.0,away
+2021-11-06,8:30p,Boston Celtics,104,Dallas Mavericks,107,20052.0,home
+2021-11-06,10:00p,Atlanta Hawks,117,Phoenix Suns,121,15412.0,home
+2021-11-06,10:30p,Los Angeles Lakers,90,Portland Trail Blazers,105,19393.0,home
+2021-11-07,3:30p,Brooklyn Nets,116,Toronto Raptors,103,19800.0,away
+2021-11-07,6:00p,Cleveland Cavaliers,126,New York Knicks,109,19040.0,away
+2021-11-07,6:00p,Utah Jazz,100,Orlando Magic,107,13386.0,home
+2021-11-07,6:00p,Indiana Pacers,94,Sacramento Kings,91,12993.0,away
+2021-11-07,6:00p,Milwaukee Bucks,94,Washington Wizards,101,15570.0,home
+2021-11-07,7:00p,San Antonio Spurs,94,Oklahoma City Thunder,99,12972.0,home
+2021-11-07,8:30p,Houston Rockets,107,Golden State Warriors,120,18064.0,home
+2021-11-07,9:00p,Charlotte Hornets,106,Los Angeles Clippers,120,15781.0,home
+2021-11-08,7:00p,New York Knicks,103,Philadelphia 76ers,96,20224.0,away
+2021-11-08,8:00p,Brooklyn Nets,95,Chicago Bulls,118,19459.0,home
+2021-11-08,8:00p,Minnesota Timberwolves,118,Memphis Grizzlies,125,12416.0,home
+2021-11-08,8:30p,New Orleans Pelicans,92,Dallas Mavericks,108,19231.0,home
+2021-11-08,9:00p,Miami Heat,96,Denver Nuggets,113,15577.0,home
+2021-11-08,10:00p,Atlanta Hawks,113,Golden State Warriors,127,18064.0,home
+2021-11-08,10:00p,Phoenix Suns,109,Sacramento Kings,104,13566.0,away
+2021-11-08,10:30p,Charlotte Hornets,123,Los Angeles Lakers,126,18997.0,home
+2021-11-09,7:30p,Milwaukee Bucks,118,Philadelphia 76ers,109,20029.0,away
+2021-11-09,9:00p,Atlanta Hawks,98,Utah Jazz,110,18306.0,home
+2021-11-09,10:00p,Portland Trail Blazers,109,Los Angeles Clippers,117,14131.0,home
+2021-11-10,7:00p,Washington Wizards,97,Cleveland Cavaliers,94,18056.0,away
+2021-11-10,7:00p,Brooklyn Nets,123,Orlando Magic,90,13882.0,away
+2021-11-10,7:30p,Toronto Raptors,88,Boston Celtics,104,19156.0,home
+2021-11-10,7:30p,Detroit Pistons,112,Houston Rockets,104,15350.0,away
+2021-11-10,7:30p,Milwaukee Bucks,112,New York Knicks,100,18027.0,away
+2021-11-10,8:00p,Dallas Mavericks,107,Chicago Bulls,117,20910.0,home
+2021-11-10,8:00p,Charlotte Hornets,118,Memphis Grizzlies,108,13880.0,away
+2021-11-10,8:00p,Oklahoma City Thunder,108,New Orleans Pelicans,100,15355.0,away
+2021-11-10,8:30p,Sacramento Kings,117,San Antonio Spurs,136,15065.0,home
+2021-11-10,9:00p,Indiana Pacers,98,Denver Nuggets,101,15232.0,home
+2021-11-10,9:00p,Portland Trail Blazers,109,Phoenix Suns,119,15672.0,home
+2021-11-10,10:00p,Minnesota Timberwolves,110,Golden State Warriors,123,18064.0,home
+2021-11-10,10:00p,Miami Heat,117,Los Angeles Lakers,120,18997.0,home
+2021-11-11,7:00p,Toronto Raptors,115,Philadelphia 76ers,109,20112.0,away
+2021-11-11,9:00p,Indiana Pacers,111,Utah Jazz,100,18306.0,away
+2021-11-11,10:30p,Miami Heat,109,Los Angeles Clippers,112,16150.0,home
+2021-11-12,7:00p,New York Knicks,96,Charlotte Hornets,104,19257.0,home
+2021-11-12,7:30p,Milwaukee Bucks,113,Boston Celtics,122,19156.0,home
+2021-11-12,7:30p,Detroit Pistons,78,Cleveland Cavaliers,98,17095.0,home
+2021-11-12,8:00p,Portland Trail Blazers,104,Houston Rockets,92,15468.0,away
+2021-11-12,8:00p,Phoenix Suns,119,Memphis Grizzlies,94,15886.0,away
+2021-11-12,8:00p,Brooklyn Nets,120,New Orleans Pelicans,112,14650.0,away
+2021-11-12,8:00p,Sacramento Kings,103,Oklahoma City Thunder,105,12881.0,home
+2021-11-12,8:30p,Dallas Mavericks,123,San Antonio Spurs,109,13425.0,away
+2021-11-12,9:00p,Atlanta Hawks,96,Denver Nuggets,105,16849.0,home
+2021-11-12,10:00p,Chicago Bulls,93,Golden State Warriors,119,18064.0,home
+2021-11-12,10:30p,Minnesota Timberwolves,107,Los Angeles Lakers,83,18997.0,away
+2021-11-13,5:00p,Miami Heat,111,Utah Jazz,105,18306.0,away
+2021-11-13,7:00p,Philadelphia 76ers,113,Indiana Pacers,118,14483.0,home
+2021-11-13,7:00p,Memphis Grizzlies,101,New Orleans Pelicans,112,14358.0,home
+2021-11-13,7:00p,Washington Wizards,104,Orlando Magic,92,17272.0,away
+2021-11-13,7:30p,Detroit Pistons,127,Toronto Raptors,121,19800.0,away
+2021-11-13,8:00p,Boston Celtics,89,Cleveland Cavaliers,91,19432.0,home
+2021-11-13,10:30p,Minnesota Timberwolves,102,Los Angeles Clippers,129,15285.0,home
+2021-11-14,3:30p,San Antonio Spurs,106,Los Angeles Lakers,114,18997.0,home
+2021-11-14,6:00p,Milwaukee Bucks,100,Atlanta Hawks,120,16901.0,home
+2021-11-14,7:00p,Golden State Warriors,102,Charlotte Hornets,106,19559.0,home
+2021-11-14,7:00p,Phoenix Suns,115,Houston Rockets,89,16088.0,away
+2021-11-14,7:00p,Brooklyn Nets,120,Oklahoma City Thunder,96,15080.0,away
+2021-11-14,8:00p,Portland Trail Blazers,95,Denver Nuggets,124,14583.0,home
+2021-11-14,9:30p,Chicago Bulls,100,Los Angeles Clippers,90,17899.0,away
+2021-11-15,7:00p,Boston Celtics,98,Cleveland Cavaliers,92,17186.0,away
+2021-11-15,7:00p,Sacramento Kings,129,Detroit Pistons,107,10092.0,away
+2021-11-15,7:00p,New Orleans Pelicans,100,Washington Wizards,105,13914.0,home
+2021-11-15,7:30p,Orlando Magic,111,Atlanta Hawks,129,13061.0,home
+2021-11-15,7:30p,Indiana Pacers,84,New York Knicks,92,16792.0,home
+2021-11-15,8:00p,Denver Nuggets,101,Dallas Mavericks,111,19797.0,home
+2021-11-15,8:00p,Houston Rockets,102,Memphis Grizzlies,136,11482.0,home
+2021-11-15,8:00p,Phoenix Suns,99,Minnesota Timberwolves,96,16274.0,away
+2021-11-15,8:00p,Miami Heat,103,Oklahoma City Thunder,90,12330.0,away
+2021-11-15,10:00p,Toronto Raptors,113,Portland Trail Blazers,118,16142.0,home
+2021-11-15,10:30p,Chicago Bulls,121,Los Angeles Lakers,103,18997.0,away
+2021-11-16,7:30p,Golden State Warriors,117,Brooklyn Nets,99,17732.0,away
+2021-11-16,10:00p,Philadelphia 76ers,85,Utah Jazz,120,18306.0,home
+2021-11-16,10:30p,San Antonio Spurs,92,Los Angeles Clippers,106,13298.0,home
+2021-11-17,7:00p,Washington Wizards,87,Charlotte Hornets,97,14402.0,home
+2021-11-17,7:00p,Indiana Pacers,89,Detroit Pistons,97,11457.0,home
+2021-11-17,7:30p,Boston Celtics,99,Atlanta Hawks,110,16445.0,home
+2021-11-17,7:30p,Cleveland Cavaliers,99,Brooklyn Nets,109,16922.0,home
+2021-11-17,7:30p,New Orleans Pelicans,98,Miami Heat,113,19600.0,home
+2021-11-17,7:30p,Los Angeles Lakers,102,Milwaukee Bucks,109,17341.0,home
+2021-11-17,7:30p,Orlando Magic,104,New York Knicks,98,16680.0,away
+2021-11-17,8:00p,Sacramento Kings,97,Minnesota Timberwolves,107,13108.0,home
+2021-11-17,8:00p,Houston Rockets,89,Oklahoma City Thunder,101,12066.0,home
+2021-11-17,10:00p,Dallas Mavericks,98,Phoenix Suns,105,14838.0,home
+2021-11-17,10:00p,Chicago Bulls,107,Portland Trail Blazers,112,17492.0,home
+2021-11-18,7:30p,Golden State Warriors,104,Cleveland Cavaliers,89,19432.0,away
+2021-11-18,7:30p,Washington Wizards,97,Miami Heat,112,19600.0,home
+2021-11-18,8:00p,Los Angeles Clippers,108,Memphis Grizzlies,120,13419.0,home
+2021-11-18,8:00p,San Antonio Spurs,90,Minnesota Timberwolves,115,13572.0,home
+2021-11-18,9:00p,Philadelphia 76ers,103,Denver Nuggets,89,14547.0,away
+2021-11-18,9:00p,Toronto Raptors,103,Utah Jazz,119,18306.0,home
+2021-11-19,7:00p,Indiana Pacers,118,Charlotte Hornets,121,16787.0,home
+2021-11-19,7:00p,Golden State Warriors,105,Detroit Pistons,102,20088.0,away
+2021-11-19,7:30p,Los Angeles Lakers,108,Boston Celtics,130,19156.0,home
+2021-11-19,7:30p,Orlando Magic,113,Brooklyn Nets,115,16966.0,home
+2021-11-19,8:00p,Oklahoma City Thunder,89,Milwaukee Bucks,96,17341.0,home
+2021-11-19,8:00p,Los Angeles Clippers,81,New Orleans Pelicans,94,15274.0,home
+2021-11-19,9:00p,Chicago Bulls,114,Denver Nuggets,108,19520.0,away
+2021-11-19,10:00p,Dallas Mavericks,104,Phoenix Suns,112,17071.0,home
+2021-11-19,10:00p,Toronto Raptors,108,Sacramento Kings,89,13159.0,away
+2021-11-20,5:00p,Houston Rockets,99,New York Knicks,106,19812.0,home
+2021-11-20,7:00p,New Orleans Pelicans,94,Indiana Pacers,111,15081.0,home
+2021-11-20,7:00p,Miami Heat,100,Washington Wizards,103,20476.0,home
+2021-11-20,7:30p,Charlotte Hornets,105,Atlanta Hawks,115,17320.0,home
+2021-11-20,7:30p,Oklahoma City Thunder,105,Boston Celtics,111,19156.0,home
+2021-11-20,8:00p,Orlando Magic,108,Milwaukee Bucks,117,17341.0,home
+2021-11-20,8:00p,Memphis Grizzlies,95,Minnesota Timberwolves,138,17136.0,home
+2021-11-20,10:00p,Philadelphia 76ers,111,Portland Trail Blazers,118,17027.0,home
+2021-11-20,10:00p,Utah Jazz,123,Sacramento Kings,105,13180.0,away
+2021-11-21,3:30p,Dallas Mavericks,91,Los Angeles Clippers,97,17149.0,home
+2021-11-21,6:00p,Los Angeles Lakers,121,Detroit Pistons,116,15532.0,away
+2021-11-21,8:00p,New York Knicks,103,Chicago Bulls,109,21813.0,home
+2021-11-21,8:00p,Denver Nuggets,97,Phoenix Suns,126,16072.0,home
+2021-11-21,8:30p,Toronto Raptors,104,Golden State Warriors,119,18064.0,home
+2021-11-22,7:00p,Brooklyn Nets,117,Cleveland Cavaliers,112,17387.0,away
+2021-11-22,7:00p,Charlotte Hornets,109,Washington Wizards,103,16575.0,away
+2021-11-22,7:30p,Oklahoma City Thunder,101,Atlanta Hawks,113,15806.0,home
+2021-11-22,7:30p,Houston Rockets,90,Boston Celtics,108,19156.0,home
+2021-11-22,8:00p,Indiana Pacers,109,Chicago Bulls,77,21586.0,away
+2021-11-22,8:00p,Orlando Magic,92,Milwaukee Bucks,123,17341.0,home
+2021-11-22,8:00p,Minnesota Timberwolves,110,New Orleans Pelicans,96,15689.0,away
+2021-11-22,8:30p,Phoenix Suns,115,San Antonio Spurs,111,14715.0,away
+2021-11-22,9:00p,Memphis Grizzlies,119,Utah Jazz,118,18306.0,away
+2021-11-22,10:00p,Philadelphia 76ers,102,Sacramento Kings,94,13948.0,away
+2021-11-23,7:00p,Miami Heat,100,Detroit Pistons,92,13123.0,away
+2021-11-23,7:30p,Los Angeles Lakers,100,New York Knicks,106,19812.0,home
+2021-11-23,10:00p,Denver Nuggets,100,Portland Trail Blazers,119,17052.0,home
+2021-11-23,10:30p,Dallas Mavericks,112,Los Angeles Clippers,104,17067.0,away
+2021-11-24,7:00p,Phoenix Suns,120,Cleveland Cavaliers,115,18055.0,away
+2021-11-24,7:00p,Los Angeles Lakers,124,Indiana Pacers,116,15572.0,away
+2021-11-24,7:00p,Charlotte Hornets,106,Orlando Magic,99,16114.0,away
+2021-11-24,7:30p,Brooklyn Nets,123,Boston Celtics,104,19156.0,away
+2021-11-24,8:00p,Chicago Bulls,113,Houston Rockets,118,16074.0,home
+2021-11-24,8:00p,Toronto Raptors,126,Memphis Grizzlies,113,15409.0,away
+2021-11-24,8:00p,Detroit Pistons,93,Milwaukee Bucks,114,17341.0,home
+2021-11-24,8:00p,Miami Heat,101,Minnesota Timberwolves,113,17136.0,home
+2021-11-24,8:00p,Washington Wizards,102,New Orleans Pelicans,127,14659.0,home
+2021-11-24,8:00p,Utah Jazz,110,Oklahoma City Thunder,104,14081.0,away
+2021-11-24,8:30p,Atlanta Hawks,124,San Antonio Spurs,106,13161.0,away
+2021-11-24,10:00p,Philadelphia 76ers,96,Golden State Warriors,116,18064.0,home
+2021-11-24,10:00p,Portland Trail Blazers,121,Sacramento Kings,125,14997.0,home
+2021-11-26,3:30p,Detroit Pistons,96,Los Angeles Clippers,107,18139.0,home
+2021-11-26,7:00p,Minnesota Timberwolves,115,Charlotte Hornets,133,19314.0,home
+2021-11-26,7:00p,Phoenix Suns,118,New York Knicks,97,19812.0,away
+2021-11-26,7:00p,Chicago Bulls,123,Orlando Magic,88,18236.0,away
+2021-11-26,8:00p,Toronto Raptors,97,Indiana Pacers,114,13508.0,home
+2021-11-26,8:00p,Atlanta Hawks,132,Memphis Grizzlies,100,16622.0,away
+2021-11-26,8:00p,Washington Wizards,101,Oklahoma City Thunder,99,14579.0,away
+2021-11-26,8:30p,Boston Celtics,88,San Antonio Spurs,96,15360.0,home
+2021-11-26,9:00p,Milwaukee Bucks,120,Denver Nuggets,109,19520.0,away
+2021-11-26,9:00p,New Orleans Pelicans,98,Utah Jazz,97,18306.0,away
+2021-11-26,10:00p,Portland Trail Blazers,103,Golden State Warriors,118,18064.0,home
+2021-11-26,10:30p,Sacramento Kings,141,Los Angeles Lakers,137,18997.0,away
+2021-11-27,6:00p,Minnesota Timberwolves,121,Philadelphia 76ers,120,21011.0,away
+2021-11-27,7:30p,New York Knicks,99,Atlanta Hawks,90,17287.0,away
+2021-11-27,7:30p,Phoenix Suns,113,Brooklyn Nets,107,18071.0,away
+2021-11-27,8:00p,Miami Heat,107,Chicago Bulls,104,21110.0,away
+2021-11-27,8:00p,Orlando Magic,92,Cleveland Cavaliers,105,18248.0,home
+2021-11-27,8:00p,Charlotte Hornets,143,Houston Rockets,146,14687.0,home
+2021-11-27,8:30p,Washington Wizards,120,Dallas Mavericks,114,20223.0,away
+2021-11-27,9:00p,New Orleans Pelicans,105,Utah Jazz,127,18306.0,home
+2021-11-28,3:30p,Golden State Warriors,105,Los Angeles Clippers,90,19068.0,away
+2021-11-28,5:00p,Milwaukee Bucks,118,Indiana Pacers,100,13130.0,away
+2021-11-28,6:00p,Sacramento Kings,101,Memphis Grizzlies,128,12844.0,home
+2021-11-28,6:00p,Boston Celtics,109,Toronto Raptors,97,19800.0,away
+2021-11-28,9:30p,Detroit Pistons,106,Los Angeles Lakers,110,18997.0,home
+2021-11-29,7:00p,Orlando Magic,96,Philadelphia 76ers,101,20193.0,home
+2021-11-29,7:30p,Denver Nuggets,120,Miami Heat,111,19600.0,away
+2021-11-29,8:00p,Charlotte Hornets,119,Chicago Bulls,133,21366.0,home
+2021-11-29,8:00p,Oklahoma City Thunder,89,Houston Rockets,102,12829.0,home
+2021-11-29,8:00p,Indiana Pacers,98,Minnesota Timberwolves,100,14191.0,home
+2021-11-29,8:30p,Cleveland Cavaliers,114,Dallas Mavericks,96,19229.0,away
+2021-11-29,8:30p,Washington Wizards,99,San Antonio Spurs,116,12606.0,home
+2021-11-29,9:00p,Portland Trail Blazers,107,Utah Jazz,129,18306.0,home
+2021-11-29,10:30p,New Orleans Pelicans,123,Los Angeles Clippers,104,15691.0,away
+2021-11-30,7:30p,New York Knicks,110,Brooklyn Nets,112,18081.0,home
+2021-11-30,7:30p,Memphis Grizzlies,98,Toronto Raptors,91,19800.0,away
+2021-11-30,10:00p,Golden State Warriors,96,Phoenix Suns,104,17071.0,home
+2021-11-30,10:00p,Detroit Pistons,92,Portland Trail Blazers,110,16071.0,home
+2021-11-30,10:00p,Los Angeles Lakers,117,Sacramento Kings,92,12459.0,away
+2021-12-01,7:00p,Atlanta Hawks,,Indiana Pacers,,,home
+2021-12-01,7:00p,Denver Nuggets,,Orlando Magic,,,home
+2021-12-01,7:00p,Minnesota Timberwolves,,Washington Wizards,,,home
+2021-12-01,7:30p,Philadelphia 76ers,,Boston Celtics,,,home
+2021-12-01,7:30p,Cleveland Cavaliers,,Miami Heat,,,home
+2021-12-01,8:00p,Charlotte Hornets,,Milwaukee Bucks,,,home
+2021-12-01,8:00p,Dallas Mavericks,,New Orleans Pelicans,,,home
+2021-12-01,8:00p,Houston Rockets,,Oklahoma City Thunder,,,home
+2021-12-01,10:30p,Sacramento Kings,,Los Angeles Clippers,,,home
+2021-12-02,7:30p,Chicago Bulls,,New York Knicks,,,home
+2021-12-02,7:30p,Milwaukee Bucks,,Toronto Raptors,,,home
+2021-12-02,8:00p,Oklahoma City Thunder,,Memphis Grizzlies,,,home
+2021-12-02,9:00p,Detroit Pistons,,Phoenix Suns,,,home
+2021-12-02,10:00p,San Antonio Spurs,,Portland Trail Blazers,,,home
+2021-12-03,7:00p,Miami Heat,,Indiana Pacers,,,home
+2021-12-03,7:00p,Cleveland Cavaliers,,Washington Wizards,,,home
+2021-12-03,7:30p,Philadelphia 76ers,,Atlanta Hawks,,,home
+2021-12-03,7:30p,Minnesota Timberwolves,,Brooklyn Nets,,,home
+2021-12-03,8:00p,Orlando Magic,,Houston Rockets,,,home
+2021-12-03,8:30p,New Orleans Pelicans,,Dallas Mavericks,,,home
+2021-12-03,9:00p,Boston Celtics,,Utah Jazz,,,home
+2021-12-03,10:00p,Phoenix Suns,,Golden State Warriors,,,home
+2021-12-03,10:00p,Los Angeles Clippers,,Los Angeles Lakers,,,home
+2021-12-04,1:00p,Denver Nuggets,,New York Knicks,,,home
+2021-12-04,7:30p,Chicago Bulls,,Brooklyn Nets,,,home
+2021-12-04,8:00p,Miami Heat,,Milwaukee Bucks,,,home
+2021-12-04,8:30p,Memphis Grizzlies,,Dallas Mavericks,,,home
+2021-12-04,8:30p,San Antonio Spurs,,Golden State Warriors,,,home
+2021-12-04,10:00p,Boston Celtics,,Portland Trail Blazers,,,home
+2021-12-04,10:00p,Los Angeles Clippers,,Sacramento Kings,,,home
+2021-12-05,3:30p,Utah Jazz,,Cleveland Cavaliers,,,home
+2021-12-05,6:00p,Charlotte Hornets,,Atlanta Hawks,,,home
+2021-12-05,6:00p,Washington Wizards,,Toronto Raptors,,,home
+2021-12-05,7:00p,New Orleans Pelicans,,Houston Rockets,,,home
+2021-12-06,7:00p,Philadelphia 76ers,,Charlotte Hornets,,,home
+2021-12-06,7:00p,Oklahoma City Thunder,,Detroit Pistons,,,home
+2021-12-06,7:00p,Washington Wizards,,Indiana Pacers,,,home
+2021-12-06,7:30p,Memphis Grizzlies,,Miami Heat,,,home
+2021-12-06,8:00p,Denver Nuggets,,Chicago Bulls,,,home
+2021-12-06,8:00p,Cleveland Cavaliers,,Milwaukee Bucks,,,home
+2021-12-06,8:00p,Atlanta Hawks,,Minnesota Timberwolves,,,home
+2021-12-06,9:00p,San Antonio Spurs,,Phoenix Suns,,,home
+2021-12-06,10:00p,Orlando Magic,,Golden State Warriors,,,home
+2021-12-06,10:00p,Los Angeles Clippers,,Portland Trail Blazers,,,home
+2021-12-07,7:30p,Brooklyn Nets,,Dallas Mavericks,,,home
+2021-12-07,8:30p,New York Knicks,,San Antonio Spurs,,,home
+2021-12-07,10:00p,Boston Celtics,,Los Angeles Lakers,,,home
+2021-12-08,7:00p,Philadelphia 76ers,,Charlotte Hornets,,,home
+2021-12-08,7:00p,Chicago Bulls,,Cleveland Cavaliers,,,home
+2021-12-08,7:00p,Washington Wizards,,Detroit Pistons,,,home
+2021-12-08,7:00p,New York Knicks,,Indiana Pacers,,,home
+2021-12-08,7:30p,Milwaukee Bucks,,Miami Heat,,,home
+2021-12-08,7:30p,Oklahoma City Thunder,,Toronto Raptors,,,home
+2021-12-08,8:00p,Brooklyn Nets,,Houston Rockets,,,home
+2021-12-08,8:00p,Dallas Mavericks,,Memphis Grizzlies,,,home
+2021-12-08,8:00p,Utah Jazz,,Minnesota Timberwolves,,,home
+2021-12-08,8:00p,Denver Nuggets,,New Orleans Pelicans,,,home
+2021-12-08,10:00p,Portland Trail Blazers,,Golden State Warriors,,,home
+2021-12-08,10:00p,Orlando Magic,,Sacramento Kings,,,home
+2021-12-08,10:30p,Boston Celtics,,Los Angeles Clippers,,,home
+2021-12-09,7:00p,Utah Jazz,,Philadelphia 76ers,,,home
+2021-12-09,8:00p,Los Angeles Lakers,,Memphis Grizzlies,,,home
+2021-12-09,8:30p,Denver Nuggets,,San Antonio Spurs,,,home
+2021-12-10,7:00p,Sacramento Kings,,Charlotte Hornets,,,home
+2021-12-10,7:00p,Dallas Mavericks,,Indiana Pacers,,,home
+2021-12-10,7:30p,Brooklyn Nets,,Atlanta Hawks,,,home
+2021-12-10,7:30p,New York Knicks,,Toronto Raptors,,,home
+2021-12-10,8:00p,Milwaukee Bucks,,Houston Rockets,,,home
+2021-12-10,8:00p,Cleveland Cavaliers,,Minnesota Timberwolves,,,home
+2021-12-10,8:00p,Detroit Pistons,,New Orleans Pelicans,,,home
+2021-12-10,8:00p,Los Angeles Lakers,,Oklahoma City Thunder,,,home
+2021-12-10,10:00p,Boston Celtics,,Phoenix Suns,,,home
+2021-12-11,3:30p,Orlando Magic,,Los Angeles Clippers,,,home
+2021-12-11,7:00p,Utah Jazz,,Washington Wizards,,,home
+2021-12-11,8:00p,Sacramento Kings,,Cleveland Cavaliers,,,home
+2021-12-11,8:00p,Houston Rockets,,Memphis Grizzlies,,,home
+2021-12-11,8:00p,Chicago Bulls,,Miami Heat,,,home
+2021-12-11,8:30p,Golden State Warriors,,Philadelphia 76ers,,,home
+2021-12-11,8:30p,Denver Nuggets,,San Antonio Spurs,,,home
+2021-12-12,12:00p,Milwaukee Bucks,,New York Knicks,,,home
+2021-12-12,6:00p,Brooklyn Nets,,Detroit Pistons,,,home
+2021-12-12,7:00p,Dallas Mavericks,,Oklahoma City Thunder,,,home
+2021-12-12,7:00p,New Orleans Pelicans,,San Antonio Spurs,,,home
+2021-12-12,9:00p,Minnesota Timberwolves,,Portland Trail Blazers,,,home
+2021-12-12,9:30p,Orlando Magic,,Los Angeles Lakers,,,home
+2021-12-13,7:00p,Miami Heat,,Cleveland Cavaliers,,,home
+2021-12-13,7:00p,Golden State Warriors,,Indiana Pacers,,,home
+2021-12-13,7:00p,Sacramento Kings,,Toronto Raptors,,,home
+2021-12-13,7:30p,Houston Rockets,,Atlanta Hawks,,,home
+2021-12-13,7:30p,Milwaukee Bucks,,Boston Celtics,,,home
+2021-12-13,8:00p,Philadelphia 76ers,,Memphis Grizzlies,,,home
+2021-12-13,8:30p,Charlotte Hornets,,Dallas Mavericks,,,home
+2021-12-13,9:00p,Washington Wizards,,Denver Nuggets,,,home
+2021-12-13,10:30p,Phoenix Suns,,Los Angeles Clippers,,,home
+2021-12-14,7:30p,Toronto Raptors,,Brooklyn Nets,,,home
+2021-12-14,7:30p,Golden State Warriors,,New York Knicks,,,home
+2021-12-14,8:00p,Detroit Pistons,,Chicago Bulls,,,home
+2021-12-14,10:00p,Phoenix Suns,,Portland Trail Blazers,,,home
+2021-12-15,7:00p,Houston Rockets,,Cleveland Cavaliers,,,home
+2021-12-15,7:00p,Atlanta Hawks,,Orlando Magic,,,home
+2021-12-15,7:00p,Miami Heat,,Philadelphia 76ers,,,home
+2021-12-15,7:30p,Los Angeles Lakers,,Dallas Mavericks,,,home
+2021-12-15,8:00p,Indiana Pacers,,Milwaukee Bucks,,,home
+2021-12-15,8:00p,New Orleans Pelicans,,Oklahoma City Thunder,,,home
+2021-12-15,8:30p,Charlotte Hornets,,San Antonio Spurs,,,home
+2021-12-15,9:00p,Minnesota Timberwolves,,Denver Nuggets,,,home
+2021-12-15,10:00p,Memphis Grizzlies,,Portland Trail Blazers,,,home
+2021-12-15,10:00p,Washington Wizards,,Sacramento Kings,,,home
+2021-12-15,10:00p,Los Angeles Clippers,,Utah Jazz,,,home
+2021-12-16,7:00p,Detroit Pistons,,Indiana Pacers,,,home
+2021-12-16,7:30p,Philadelphia 76ers,,Brooklyn Nets,,,home
+2021-12-16,7:30p,Chicago Bulls,,Toronto Raptors,,,home
+2021-12-16,8:00p,New York Knicks,,Houston Rockets,,,home
+2021-12-16,9:00p,Washington Wizards,,Phoenix Suns,,,home
+2021-12-17,7:00p,Miami Heat,,Orlando Magic,,,home
+2021-12-17,7:30p,Denver Nuggets,,Atlanta Hawks,,,home
+2021-12-17,7:30p,Golden State Warriors,,Boston Celtics,,,home
+2021-12-17,8:00p,Los Angeles Lakers,,Minnesota Timberwolves,,,home
+2021-12-17,9:00p,San Antonio Spurs,,Utah Jazz,,,home
+2021-12-17,10:00p,Milwaukee Bucks,,New Orleans Pelicans,,,home
+2021-12-17,10:00p,Charlotte Hornets,,Portland Trail Blazers,,,home
+2021-12-17,10:00p,Memphis Grizzlies,,Sacramento Kings,,,home
+2021-12-18,12:00p,Houston Rockets,,Detroit Pistons,,,home
+2021-12-18,7:30p,Orlando Magic,,Brooklyn Nets,,,home
+2021-12-18,7:30p,Golden State Warriors,,Toronto Raptors,,,home
+2021-12-18,8:00p,Los Angeles Clippers,,Oklahoma City Thunder,,,home
+2021-12-18,8:30p,New York Knicks,,Boston Celtics,,,home
+2021-12-18,9:00p,Cleveland Cavaliers,,Milwaukee Bucks,,,home
+2021-12-18,9:00p,Washington Wizards,,Utah Jazz,,,home
+2021-12-19,3:30p,Los Angeles Lakers,,Chicago Bulls,,,home
+2021-12-19,6:00p,Miami Heat,,Detroit Pistons,,,home
+2021-12-19,6:00p,Portland Trail Blazers,,Memphis Grizzlies,,,home
+2021-12-19,6:00p,San Antonio Spurs,,Sacramento Kings,,,home
+2021-12-19,7:30p,Cleveland Cavaliers,,Atlanta Hawks,,,home
+2021-12-19,7:30p,Denver Nuggets,,Brooklyn Nets,,,home
+2021-12-19,8:00p,Dallas Mavericks,,Minnesota Timberwolves,,,home
+2021-12-19,8:00p,New Orleans Pelicans,,Philadelphia 76ers,,,home
+2021-12-19,8:00p,Charlotte Hornets,,Phoenix Suns,,,home
+2021-12-20,7:30p,Philadelphia 76ers,,Boston Celtics,,,home
+2021-12-20,7:30p,Orlando Magic,,Toronto Raptors,,,home
+2021-12-20,8:00p,Houston Rockets,,Chicago Bulls,,,home
+2021-12-20,8:00p,Oklahoma City Thunder,,Memphis Grizzlies,,,home
+2021-12-20,9:00p,Charlotte Hornets,,Utah Jazz,,,home
+2021-12-20,10:00p,Sacramento Kings,,Golden State Warriors,,,home
+2021-12-20,10:30p,San Antonio Spurs,,Los Angeles Clippers,,,home
+2021-12-21,7:30p,Washington Wizards,,Brooklyn Nets,,,home
+2021-12-21,7:30p,Indiana Pacers,,Miami Heat,,,home
+2021-12-21,7:30p,Detroit Pistons,,New York Knicks,,,home
+2021-12-21,8:00p,Portland Trail Blazers,,New Orleans Pelicans,,,home
+2021-12-21,8:30p,Minnesota Timberwolves,,Dallas Mavericks,,,home
+2021-12-21,10:00p,Phoenix Suns,,Los Angeles Lakers,,,home
+2021-12-22,7:30p,Orlando Magic,,Atlanta Hawks,,,home
+2021-12-22,7:30p,Cleveland Cavaliers,,Boston Celtics,,,home
+2021-12-22,8:00p,Toronto Raptors,,Chicago Bulls,,,home
+2021-12-22,8:00p,Houston Rockets,,Milwaukee Bucks,,,home
+2021-12-22,8:00p,Denver Nuggets,,Oklahoma City Thunder,,,home
+2021-12-22,10:00p,Los Angeles Clippers,,Sacramento Kings,,,home
+2021-12-23,7:00p,Houston Rockets,,Indiana Pacers,,,home
+2021-12-23,7:00p,New Orleans Pelicans,,Orlando Magic,,,home
+2021-12-23,7:00p,Atlanta Hawks,,Philadelphia 76ers,,,home
+2021-12-23,7:30p,Detroit Pistons,,Miami Heat,,,home
+2021-12-23,7:30p,Washington Wizards,,New York Knicks,,,home
+2021-12-23,8:30p,Milwaukee Bucks,,Dallas Mavericks,,,home
+2021-12-23,9:00p,Charlotte Hornets,,Denver Nuggets,,,home
+2021-12-23,9:00p,Oklahoma City Thunder,,Phoenix Suns,,,home
+2021-12-23,9:00p,Minnesota Timberwolves,,Utah Jazz,,,home
+2021-12-23,10:00p,Memphis Grizzlies,,Golden State Warriors,,,home
+2021-12-23,10:00p,Brooklyn Nets,,Portland Trail Blazers,,,home
+2021-12-23,10:30p,San Antonio Spurs,,Los Angeles Lakers,,,home
+2021-12-25,12:00p,Atlanta Hawks,,New York Knicks,,,home
+2021-12-25,2:30p,Boston Celtics,,Milwaukee Bucks,,,home
+2021-12-25,5:00p,Golden State Warriors,,Phoenix Suns,,,home
+2021-12-25,8:00p,Brooklyn Nets,,Los Angeles Lakers,,,home
+2021-12-25,10:30p,Dallas Mavericks,,Utah Jazz,,,home
+2021-12-26,3:30p,Orlando Magic,,Miami Heat,,,home
+2021-12-26,6:00p,Toronto Raptors,,Cleveland Cavaliers,,,home
+2021-12-26,6:00p,Memphis Grizzlies,,Sacramento Kings,,,home
+2021-12-26,6:00p,Philadelphia 76ers,,Washington Wizards,,,home
+2021-12-26,7:00p,New Orleans Pelicans,,Oklahoma City Thunder,,,home
+2021-12-26,7:00p,Detroit Pistons,,San Antonio Spurs,,,home
+2021-12-26,8:00p,Indiana Pacers,,Chicago Bulls,,,home
+2021-12-26,9:00p,Denver Nuggets,,Los Angeles Clippers,,,home
+2021-12-27,7:00p,Houston Rockets,,Charlotte Hornets,,,home
+2021-12-27,7:30p,Chicago Bulls,,Atlanta Hawks,,,home
+2021-12-27,8:00p,Boston Celtics,,Minnesota Timberwolves,,,home
+2021-12-27,8:30p,Utah Jazz,,San Antonio Spurs,,,home
+2021-12-27,9:00p,Memphis Grizzlies,,Phoenix Suns,,,home
+2021-12-27,10:00p,Dallas Mavericks,,Portland Trail Blazers,,,home
+2021-12-27,10:30p,Brooklyn Nets,,Los Angeles Clippers,,,home
+2021-12-28,7:00p,Milwaukee Bucks,,Orlando Magic,,,home
+2021-12-28,7:30p,Washington Wizards,,Miami Heat,,,home
+2021-12-28,7:30p,Philadelphia 76ers,,Toronto Raptors,,,home
+2021-12-28,8:00p,Los Angeles Lakers,,Houston Rockets,,,home
+2021-12-28,8:00p,New York Knicks,,Minnesota Timberwolves,,,home
+2021-12-28,8:00p,Cleveland Cavaliers,,New Orleans Pelicans,,,home
+2021-12-28,10:00p,Denver Nuggets,,Golden State Warriors,,,home
+2021-12-28,10:00p,Oklahoma City Thunder,,Sacramento Kings,,,home
+2021-12-29,7:00p,New York Knicks,,Detroit Pistons,,,home
+2021-12-29,7:00p,Charlotte Hornets,,Indiana Pacers,,,home
+2021-12-29,7:30p,Los Angeles Clippers,,Boston Celtics,,,home
+2021-12-29,8:00p,Atlanta Hawks,,Chicago Bulls,,,home
+2021-12-29,8:00p,Los Angeles Lakers,,Memphis Grizzlies,,,home
+2021-12-29,8:30p,Miami Heat,,San Antonio Spurs,,,home
+2021-12-29,9:00p,Oklahoma City Thunder,,Phoenix Suns,,,home
+2021-12-29,10:00p,Utah Jazz,,Portland Trail Blazers,,,home
+2021-12-29,10:30p,Dallas Mavericks,,Sacramento Kings,,,home
+2021-12-30,7:00p,Philadelphia 76ers,,Brooklyn Nets,,,home
+2021-12-30,7:00p,Milwaukee Bucks,,Orlando Magic,,,home
+2021-12-30,7:00p,Cleveland Cavaliers,,Washington Wizards,,,home
+2021-12-30,9:30p,Golden State Warriors,,Denver Nuggets,,,home
+2021-12-31,1:00p,Phoenix Suns,,Boston Celtics,,,home
+2021-12-31,3:00p,Chicago Bulls,,Indiana Pacers,,,home
+2021-12-31,6:00p,Dallas Mavericks,,Sacramento Kings,,,home
+2021-12-31,7:00p,Miami Heat,,Houston Rockets,,,home
+2021-12-31,7:30p,Atlanta Hawks,,Cleveland Cavaliers,,,home
+2021-12-31,7:30p,Los Angeles Clippers,,Toronto Raptors,,,home
+2021-12-31,8:00p,San Antonio Spurs,,Memphis Grizzlies,,,home
+2021-12-31,8:00p,New York Knicks,,Oklahoma City Thunder,,,home
+2021-12-31,9:00p,Minnesota Timberwolves,,Utah Jazz,,,home
+2021-12-31,10:30p,Portland Trail Blazers,,Los Angeles Lakers,,,home
