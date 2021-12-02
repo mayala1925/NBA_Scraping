@@ -112,4 +112,4 @@ cv = StratifiedKFold(n_splits=5,random_state=1, shuffle=True)
 
 n_scores = cross_val_score(gbm, features, y=target, scoring='accuracy', cv=cv, n_jobs=-1, error_score='raise')
 
-print(f'Accuracy: {np.mean(n_scores)}, {np.std(n_scores)}')
+print(f'Gradient Boosting Accuracy: {np.mean(n_scores)}, {np.std(n_scores)}')
