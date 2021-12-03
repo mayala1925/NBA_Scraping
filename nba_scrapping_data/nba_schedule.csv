@@ -326,11 +326,11 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-01,8:00p,Dallas Mavericks,139.0,New Orleans Pelicans,107.0,15558.0,away
 2021-12-01,8:00p,Houston Rockets,114.0,Oklahoma City Thunder,110.0,13222.0,away
 2021-12-01,10:30p,Sacramento Kings,124.0,Los Angeles Clippers,115.0,17217.0,away
-2021-12-02,7:30p,Chicago Bulls,,New York Knicks,,,home
-2021-12-02,7:30p,Milwaukee Bucks,,Toronto Raptors,,,home
-2021-12-02,8:00p,Oklahoma City Thunder,,Memphis Grizzlies,,,home
-2021-12-02,9:00p,Detroit Pistons,,Phoenix Suns,,,home
-2021-12-02,10:00p,San Antonio Spurs,,Portland Trail Blazers,,,home
+2021-12-02,7:30p,Chicago Bulls,119.0,New York Knicks,115.0,19812.0,away
+2021-12-02,7:30p,Milwaukee Bucks,93.0,Toronto Raptors,97.0,19800.0,home
+2021-12-02,8:00p,Oklahoma City Thunder,79.0,Memphis Grizzlies,152.0,13103.0,home
+2021-12-02,9:00p,Detroit Pistons,103.0,Phoenix Suns,114.0,0.0,home
+2021-12-02,10:00p,San Antonio Spurs,114.0,Portland Trail Blazers,83.0,16143.0,away
 2021-12-03,7:00p,Miami Heat,,Indiana Pacers,,,home
 2021-12-03,7:00p,Cleveland Cavaliers,,Washington Wizards,,,home
 2021-12-03,7:30p,Philadelphia 76ers,,Atlanta Hawks,,,home
@@ -341,7 +341,7 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-03,10:00p,Phoenix Suns,,Golden State Warriors,,,home
 2021-12-03,10:00p,Los Angeles Clippers,,Los Angeles Lakers,,,home
 2021-12-04,1:00p,Denver Nuggets,,New York Knicks,,,home
-2021-12-04,7:30p,Chicago Bulls,,Brooklyn Nets,,,home
+2021-12-04,8:00p,Chicago Bulls,,Brooklyn Nets,,,home
 2021-12-04,8:00p,Miami Heat,,Milwaukee Bucks,,,home
 2021-12-04,8:30p,Memphis Grizzlies,,Dallas Mavericks,,,home
 2021-12-04,8:30p,San Antonio Spurs,,Golden State Warriors,,,home
@@ -434,9 +434,9 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-17,7:00p,Miami Heat,,Orlando Magic,,,home
 2021-12-17,7:30p,Denver Nuggets,,Atlanta Hawks,,,home
 2021-12-17,7:30p,Golden State Warriors,,Boston Celtics,,,home
-2021-12-17,8:00p,Los Angeles Lakers,,Minnesota Timberwolves,,,home
+2021-12-17,8:00p,Milwaukee Bucks,,New Orleans Pelicans,,,home
 2021-12-17,9:00p,San Antonio Spurs,,Utah Jazz,,,home
-2021-12-17,10:00p,Milwaukee Bucks,,New Orleans Pelicans,,,home
+2021-12-17,10:00p,Los Angeles Lakers,,Minnesota Timberwolves,,,home
 2021-12-17,10:00p,Charlotte Hornets,,Portland Trail Blazers,,,home
 2021-12-17,10:00p,Memphis Grizzlies,,Sacramento Kings,,,home
 2021-12-18,12:00p,Houston Rockets,,Detroit Pistons,,,home
