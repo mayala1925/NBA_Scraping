@@ -73,12 +73,24 @@ X_train, X_test, y_train, y_test = train_test_split(features, classifier_data['w
 predictions = []
 for pipe in pipelines:
     pipe.fit(X_train, y_train)
-    # real_preds = pipe.predict(pred_features)
-    # predictions.append(real_preds)
+    real_preds = pipe.predict(pred_features)
+    predictions.append(real_preds)
+
+
+for i in range(len(predictions[0])):
+    pred_list = []
+    for pred in predictions:
+        pred_list.append(pred[i])
+    home_count = pred_list.count('home')
+    away_count = pred_list.count('away')
+    print(pred_list)
+    print(home_count)
+    print(away_count)
 
 
 for i, model in enumerate(pipelines):
-    print(f'{pipe_dict[i]} Test Accuracy: {model.score(X_test,y_test)}')
+    m_score = model.score(X_test,y_test)
+    print(f'{pipe_dict[i]} Test Accuracy: {m_score}')
 
 #%%
 # Commented out lines are for kfold train/test splits, should implement later.
@@ -111,5 +123,7 @@ gbm = GradientBoostingClassifier(random_state=1, n_estimators=120, learning_rate
 cv = StratifiedKFold(n_splits=5,random_state=1, shuffle=True)
 
 n_scores = cross_val_score(gbm, features, y=target, scoring='accuracy', cv=cv, n_jobs=-1, error_score='raise')
+
+
 
 print(f'Gradient Boosting Accuracy: {np.mean(n_scores)}, {np.std(n_scores)}')
