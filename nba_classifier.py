@@ -77,8 +77,11 @@ for pipe in pipelines:
     predictions.append(real_preds)
 
 
+# Getting the predicted winner that the most classifiers agree on.
+final_predictions = []
 for i in range(len(predictions[0])):
     pred_list = []
+
     for pred in predictions:
         pred_list.append(pred[i])
     home_count = pred_list.count('home')
@@ -86,7 +89,18 @@ for i in range(len(predictions[0])):
     print(pred_list)
     print(home_count)
     print(away_count)
+    if home_count > away_count:
+        final_predictions.append('Home')
+    elif home_count == away_count:
+        final_predictions.append('Unsure')
+    else:
+        final_predictions.append('Away')
 
+print(f'The classifiers predict... {final_predictions}')
+
+# Putting the final predictions into the game rows row today.
+pred_rows = pred_rows.drop('winner',axis = 1)
+pred_rows['winner'] = final_predictions
 
 for i, model in enumerate(pipelines):
     m_score = model.score(X_test,y_test)
