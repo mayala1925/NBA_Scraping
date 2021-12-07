@@ -351,16 +351,16 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-05,6:00p,Charlotte Hornets,130.0,Atlanta Hawks,127.0,16383.0,away
 2021-12-05,6:00p,Washington Wizards,90.0,Toronto Raptors,102.0,19800.0,home
 2021-12-05,7:00p,New Orleans Pelicans,108.0,Houston Rockets,118.0,14771.0,home
-2021-12-06,7:00p,Philadelphia 76ers,,Charlotte Hornets,,,home
-2021-12-06,7:00p,Oklahoma City Thunder,,Detroit Pistons,,,home
-2021-12-06,7:00p,Washington Wizards,,Indiana Pacers,,,home
-2021-12-06,7:30p,Memphis Grizzlies,,Miami Heat,,,home
-2021-12-06,8:00p,Denver Nuggets,,Chicago Bulls,,,home
-2021-12-06,8:00p,Cleveland Cavaliers,,Milwaukee Bucks,,,home
-2021-12-06,8:00p,Atlanta Hawks,,Minnesota Timberwolves,,,home
-2021-12-06,9:00p,San Antonio Spurs,,Phoenix Suns,,,home
-2021-12-06,10:00p,Orlando Magic,,Golden State Warriors,,,home
-2021-12-06,10:00p,Los Angeles Clippers,,Portland Trail Blazers,,,home
+2021-12-06,7:00p,Philadelphia 76ers,127.0,Charlotte Hornets,124.0,14462.0,away
+2021-12-06,7:00p,Oklahoma City Thunder,114.0,Detroit Pistons,103.0,10522.0,away
+2021-12-06,7:00p,Washington Wizards,110.0,Indiana Pacers,116.0,12581.0,home
+2021-12-06,7:30p,Memphis Grizzlies,105.0,Miami Heat,90.0,19600.0,away
+2021-12-06,8:00p,Denver Nuggets,97.0,Chicago Bulls,109.0,21236.0,home
+2021-12-06,8:00p,Cleveland Cavaliers,104.0,Milwaukee Bucks,112.0,17341.0,home
+2021-12-06,8:00p,Atlanta Hawks,121.0,Minnesota Timberwolves,110.0,15736.0,away
+2021-12-06,9:00p,San Antonio Spurs,104.0,Phoenix Suns,108.0,15292.0,home
+2021-12-06,10:00p,Orlando Magic,95.0,Golden State Warriors,126.0,18064.0,home
+2021-12-06,10:00p,Los Angeles Clippers,102.0,Portland Trail Blazers,90.0,15865.0,away
 2021-12-07,7:30p,Brooklyn Nets,,Dallas Mavericks,,,home
 2021-12-07,8:30p,New York Knicks,,San Antonio Spurs,,,home
 2021-12-07,10:00p,Boston Celtics,,Los Angeles Lakers,,,home
