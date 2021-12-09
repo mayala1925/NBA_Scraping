@@ -14,6 +14,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import accuracy_score
 from datetime import date
+import os
 
 
 today = date.today()
@@ -100,11 +101,20 @@ print(f'The classifiers predict... {final_predictions}')
 
 # Putting the final predictions into the game rows row today.
 pred_rows = pred_rows.drop('winner',axis = 1)
-pred_rows['winner'] = final_predictions
+pred_rows['predicted_winner'] = final_predictions
+
+site_table = pred_rows[['away','home','predicted_winner']]
 
 for i, model in enumerate(pipelines):
     m_score = model.score(X_test,y_test)
     print(f'{pipe_dict[i]} Test Accuracy: {m_score}')
+
+
+PATH_PARENT = os.path.dirname(os.getcwd())
+path = os.path.join(PATH_PARENT,'personal-site/static/predictions')
+
+site_table.to_csv(f'{path}/predictions.csv',index = False)
+
 
 #%%
 # Commented out lines are for kfold train/test splits, should implement later.

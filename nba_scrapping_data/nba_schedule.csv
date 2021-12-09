@@ -361,22 +361,22 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-06,9:00p,San Antonio Spurs,104.0,Phoenix Suns,108.0,15292.0,home
 2021-12-06,10:00p,Orlando Magic,95.0,Golden State Warriors,126.0,18064.0,home
 2021-12-06,10:00p,Los Angeles Clippers,102.0,Portland Trail Blazers,90.0,15865.0,away
-2021-12-07,7:30p,Brooklyn Nets,,Dallas Mavericks,,,home
-2021-12-07,8:30p,New York Knicks,,San Antonio Spurs,,,home
-2021-12-07,10:00p,Boston Celtics,,Los Angeles Lakers,,,home
-2021-12-08,7:00p,Philadelphia 76ers,,Charlotte Hornets,,,home
-2021-12-08,7:00p,Chicago Bulls,,Cleveland Cavaliers,,,home
-2021-12-08,7:00p,Washington Wizards,,Detroit Pistons,,,home
-2021-12-08,7:00p,New York Knicks,,Indiana Pacers,,,home
-2021-12-08,7:30p,Milwaukee Bucks,,Miami Heat,,,home
-2021-12-08,7:30p,Oklahoma City Thunder,,Toronto Raptors,,,home
-2021-12-08,8:00p,Brooklyn Nets,,Houston Rockets,,,home
-2021-12-08,8:00p,Dallas Mavericks,,Memphis Grizzlies,,,home
-2021-12-08,8:00p,Utah Jazz,,Minnesota Timberwolves,,,home
-2021-12-08,8:00p,Denver Nuggets,,New Orleans Pelicans,,,home
-2021-12-08,10:00p,Portland Trail Blazers,,Golden State Warriors,,,home
-2021-12-08,10:00p,Orlando Magic,,Sacramento Kings,,,home
-2021-12-08,10:30p,Boston Celtics,,Los Angeles Clippers,,,home
+2021-12-07,7:30p,Brooklyn Nets,102.0,Dallas Mavericks,99.0,19559.0,away
+2021-12-07,8:30p,New York Knicks,121.0,San Antonio Spurs,109.0,14698.0,away
+2021-12-07,10:00p,Boston Celtics,102.0,Los Angeles Lakers,117.0,18997.0,home
+2021-12-08,7:00p,Philadelphia 76ers,110.0,Charlotte Hornets,106.0,15709.0,away
+2021-12-08,7:00p,Chicago Bulls,92.0,Cleveland Cavaliers,115.0,17707.0,home
+2021-12-08,7:00p,Washington Wizards,119.0,Detroit Pistons,116.0,10499.0,away
+2021-12-08,7:00p,New York Knicks,102.0,Indiana Pacers,122.0,13167.0,home
+2021-12-08,7:30p,Milwaukee Bucks,104.0,Miami Heat,113.0,19600.0,home
+2021-12-08,7:30p,Oklahoma City Thunder,110.0,Toronto Raptors,109.0,19800.0,away
+2021-12-08,8:00p,Brooklyn Nets,104.0,Houston Rockets,114.0,15834.0,home
+2021-12-08,8:00p,Dallas Mavericks,104.0,Memphis Grizzlies,96.0,14025.0,away
+2021-12-08,8:00p,Utah Jazz,136.0,Minnesota Timberwolves,104.0,15181.0,away
+2021-12-08,8:00p,Denver Nuggets,120.0,New Orleans Pelicans,114.0,15035.0,away
+2021-12-08,10:00p,Portland Trail Blazers,94.0,Golden State Warriors,104.0,18064.0,home
+2021-12-08,10:00p,Orlando Magic,130.0,Sacramento Kings,142.0,14364.0,home
+2021-12-08,10:30p,Boston Celtics,111.0,Los Angeles Clippers,114.0,17064.0,home
 2021-12-09,7:00p,Utah Jazz,,Philadelphia 76ers,,,home
 2021-12-09,8:00p,Los Angeles Lakers,,Memphis Grizzlies,,,home
 2021-12-09,8:30p,Denver Nuggets,,San Antonio Spurs,,,home
