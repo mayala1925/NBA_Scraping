@@ -377,18 +377,18 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-08,10:00p,Portland Trail Blazers,94.0,Golden State Warriors,104.0,18064.0,home
 2021-12-08,10:00p,Orlando Magic,130.0,Sacramento Kings,142.0,14364.0,home
 2021-12-08,10:30p,Boston Celtics,111.0,Los Angeles Clippers,114.0,17064.0,home
-2021-12-09,7:00p,Utah Jazz,,Philadelphia 76ers,,,home
-2021-12-09,8:00p,Los Angeles Lakers,,Memphis Grizzlies,,,home
-2021-12-09,8:30p,Denver Nuggets,,San Antonio Spurs,,,home
-2021-12-10,7:00p,Sacramento Kings,,Charlotte Hornets,,,home
-2021-12-10,7:00p,Dallas Mavericks,,Indiana Pacers,,,home
-2021-12-10,7:30p,Brooklyn Nets,,Atlanta Hawks,,,home
-2021-12-10,7:30p,New York Knicks,,Toronto Raptors,,,home
-2021-12-10,8:00p,Milwaukee Bucks,,Houston Rockets,,,home
-2021-12-10,8:00p,Cleveland Cavaliers,,Minnesota Timberwolves,,,home
-2021-12-10,8:00p,Detroit Pistons,,New Orleans Pelicans,,,home
-2021-12-10,8:00p,Los Angeles Lakers,,Oklahoma City Thunder,,,home
-2021-12-10,10:00p,Boston Celtics,,Phoenix Suns,,,home
+2021-12-09,7:00p,Utah Jazz,118.0,Philadelphia 76ers,96.0,20272.0,away
+2021-12-09,8:00p,Los Angeles Lakers,95.0,Memphis Grizzlies,108.0,16334.0,home
+2021-12-09,8:30p,Denver Nuggets,111.0,San Antonio Spurs,123.0,12855.0,home
+2021-12-10,7:00p,Sacramento Kings,123.0,Charlotte Hornets,124.0,16335.0,home
+2021-12-10,7:00p,Dallas Mavericks,93.0,Indiana Pacers,106.0,12618.0,home
+2021-12-10,7:30p,Brooklyn Nets,113.0,Atlanta Hawks,105.0,17074.0,away
+2021-12-10,7:30p,New York Knicks,87.0,Toronto Raptors,90.0,19800.0,home
+2021-12-10,8:00p,Milwaukee Bucks,123.0,Houston Rockets,114.0,16319.0,away
+2021-12-10,8:00p,Cleveland Cavaliers,123.0,Minnesota Timberwolves,106.0,15694.0,away
+2021-12-10,8:00p,Detroit Pistons,93.0,New Orleans Pelicans,109.0,15828.0,home
+2021-12-10,8:00p,Los Angeles Lakers,116.0,Oklahoma City Thunder,95.0,16523.0,away
+2021-12-10,10:00p,Boston Celtics,90.0,Phoenix Suns,111.0,17071.0,home
 2021-12-11,3:30p,Orlando Magic,,Los Angeles Clippers,,,home
 2021-12-11,7:00p,Utah Jazz,,Washington Wizards,,,home
 2021-12-11,8:00p,Sacramento Kings,,Cleveland Cavaliers,,,home
@@ -440,10 +440,10 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2021-12-17,10:00p,Charlotte Hornets,,Portland Trail Blazers,,,home
 2021-12-17,10:00p,Memphis Grizzlies,,Sacramento Kings,,,home
 2021-12-18,12:00p,Houston Rockets,,Detroit Pistons,,,home
+2021-12-18,7:00p,New York Knicks,,Boston Celtics,,,home
 2021-12-18,7:30p,Orlando Magic,,Brooklyn Nets,,,home
 2021-12-18,7:30p,Golden State Warriors,,Toronto Raptors,,,home
 2021-12-18,8:00p,Los Angeles Clippers,,Oklahoma City Thunder,,,home
-2021-12-18,8:30p,New York Knicks,,Boston Celtics,,,home
 2021-12-18,9:00p,Cleveland Cavaliers,,Milwaukee Bucks,,,home
 2021-12-18,9:00p,Washington Wizards,,Utah Jazz,,,home
 2021-12-19,3:30p,Los Angeles Lakers,,Chicago Bulls,,,home
