@@ -187,9 +187,6 @@ pipeline_svr = Pipeline([('scalar3', StandardScaler()),
 
 pipelines_reg = [pipeline_lm, pipeline_r, pipeline_dtr, pipeline_svr]
 
-# best_accuracy = 0.0
-# best_classifier = 0
-# best_pipeline = ""
 
 pipe_dict_reg = {0: 'Linear Regression',
              1: 'Ridge',
