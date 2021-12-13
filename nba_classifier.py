@@ -99,10 +99,16 @@ pred_rows = pred_rows.drop('winner',axis = 1)
 pred_rows['predicted_winner'] = final_predictions
 
 site_table = pred_rows[['away','home','predicted_winner']]
-
+class_scores = []
 for i, model in enumerate(pipelines):
     m_score = model.score(X_test,y_test)
+    store_score = pipe_dict[i],m_score
+    class_scores.append(store_score)
     print(f'{pipe_dict[i]} Test Accuracy: {m_score}')
+
+# Putting scores into a file for historical purposes.
+score_df = pd.DataFrame(data = class_scores, columns=['classifier','Accuracy'])
+score_df.to_csv(f'score_history/classifier_score_{today}.csv', index = False)
 
 
 PATH_PARENT = os.path.dirname(os.getcwd())
@@ -197,8 +203,16 @@ pipe_dict_reg = {0: 'Linear Regression',
 for pipeline in pipelines_reg:
     pipeline.fit(X_train_reg, y_train_reg)
 
+reg_scores = []
 for i, model in enumerate(pipelines_reg):
     reg_pred = model.predict(X_test_reg)
     mse_score = mean_squared_error(y_test_reg,reg_pred)
     r_score = r2_score(y_test_reg,reg_pred)
+    regression_score = pipe_dict_reg[i],mse_score,r_score
+    reg_scores.append(regression_score)
+
     print(f'{pipe_dict_reg[i]}: Mean Squared Error: {mse_score},R2:{r_score}')
+
+# Putting scores into a file for historical purposes.
+reg_score_df = pd.DataFrame(data = reg_scores, columns=['classifier','mean_squared_error','R2'])
+reg_score_df.to_csv(f'score_history/regression_score_{today}.csv', index = False)
