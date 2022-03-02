@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from datetime import date, timedelta
 
+# Currently 2021-12-16 ratings are a copy of 2021-12-15 because I forgot to run the script on that day.
 
 # Reading in the updated schedule from nba_scrapping
 schedule = pd.read_csv('nba_scrapping_data/nba_schedule.csv')

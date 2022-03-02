@@ -13,7 +13,7 @@ import numpy as np
 
 # NBA Season to analyze
 # year = 2022  # Season
-months = ['october', 'november', 'december']  # Months of the season
+months = ['october', 'november', 'december', 'january', 'february','march']  # Months of the season
 
 
 def get_stats(year, month):
