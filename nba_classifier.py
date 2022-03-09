@@ -107,8 +107,9 @@ for i, model in enumerate(pipelines):
     print(f'{pipe_dict[i]} Test Accuracy: {m_score}')
 
 # Putting scores into a file for historical purposes.
-score_df = pd.DataFrame(data = class_scores, columns=['classifier','Accuracy'])
-score_df.to_csv(f'score_history/classifier_score_{today}.csv', index = False)
+# Commented out score history lines for New york trip.
+# score_df = pd.DataFrame(data = class_scores, columns=['classifier','Accuracy'])
+# score_df.to_csv(f'score_history/classifier_score_{today}.csv', index = False)
 
 
 PATH_PARENT = os.path.dirname(os.getcwd())
@@ -214,5 +215,6 @@ for i, model in enumerate(pipelines_reg):
     print(f'{pipe_dict_reg[i]}: Mean Squared Error: {mse_score},R2:{r_score}')
 
 # Putting scores into a file for historical purposes.
-reg_score_df = pd.DataFrame(data = reg_scores, columns=['classifier','mean_squared_error','R2'])
-reg_score_df.to_csv(f'score_history/regression_score_{today}.csv', index = False)
+# Commented out score history lines for New York trip
+# reg_score_df = pd.DataFrame(data = reg_scores, columns=['classifier','mean_squared_error','R2'])
+# reg_score_df.to_csv(f'score_history/regression_score_{today}.csv', index = False)

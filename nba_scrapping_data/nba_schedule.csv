@@ -926,52 +926,52 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2022-03-01,8:00p,Los Angeles Clippers,113.0,Houston Rockets,100.0,12949.0,away
 2022-03-01,8:00p,Golden State Warriors,114.0,Minnesota Timberwolves,129.0,17136.0,home
 2022-03-01,10:00p,Dallas Mavericks,109.0,Los Angeles Lakers,104.0,17857.0,away
-2022-03-02,7:00p,Charlotte Hornets,,Cleveland Cavaliers,,,home
-2022-03-02,7:00p,Indiana Pacers,,Orlando Magic,,,home
-2022-03-02,7:30p,New York Knicks,,Philadelphia 76ers,,,home
-2022-03-02,8:00p,Utah Jazz,,Houston Rockets,,,home
-2022-03-02,8:00p,Miami Heat,,Milwaukee Bucks,,,home
-2022-03-02,8:00p,Sacramento Kings,,New Orleans Pelicans,,,home
-2022-03-02,9:00p,Oklahoma City Thunder,,Denver Nuggets,,,home
-2022-03-02,10:00p,Portland Trail Blazers,,Phoenix Suns,,,home
-2022-03-03,7:00p,Chicago Bulls,,Atlanta Hawks,,,home
-2022-03-03,7:30p,Memphis Grizzlies,,Boston Celtics,,,home
-2022-03-03,7:30p,Miami Heat,,Brooklyn Nets,,,home
-2022-03-03,7:30p,Detroit Pistons,,Toronto Raptors,,,home
-2022-03-03,8:30p,Golden State Warriors,,Dallas Mavericks,,,home
-2022-03-03,8:30p,Sacramento Kings,,San Antonio Spurs,,,home
-2022-03-03,10:00p,Los Angeles Lakers,,Los Angeles Clippers,,,home
-2022-03-04,7:00p,Indiana Pacers,,Detroit Pistons,,,home
-2022-03-04,7:00p,Cleveland Cavaliers,,Philadelphia 76ers,,,home
-2022-03-04,7:00p,Atlanta Hawks,,Washington Wizards,,,home
-2022-03-04,7:30p,Milwaukee Bucks,,Chicago Bulls,,,home
-2022-03-04,7:30p,Orlando Magic,,Toronto Raptors,,,home
-2022-03-04,8:00p,Utah Jazz,,New Orleans Pelicans,,,home
-2022-03-04,8:00p,Minnesota Timberwolves,,Oklahoma City Thunder,,,home
-2022-03-04,9:00p,Houston Rockets,,Denver Nuggets,,,home
-2022-03-04,10:00p,New York Knicks,,Phoenix Suns,,,home
-2022-03-05,5:00p,Sacramento Kings,,Dallas Mavericks,,,home
-2022-03-05,7:00p,San Antonio Spurs,,Charlotte Hornets,,,home
-2022-03-05,8:00p,Orlando Magic,,Memphis Grizzlies,,,home
-2022-03-05,8:00p,Philadelphia 76ers,,Miami Heat,,,home
-2022-03-05,8:00p,Portland Trail Blazers,,Minnesota Timberwolves,,,home
-2022-03-05,8:30p,Golden State Warriors,,Los Angeles Lakers,,,home
-2022-03-06,1:00p,Brooklyn Nets,,Boston Celtics,,,home
-2022-03-06,3:30p,Phoenix Suns,,Milwaukee Bucks,,,home
-2022-03-06,6:00p,Indiana Pacers,,Washington Wizards,,,home
-2022-03-06,7:00p,Memphis Grizzlies,,Houston Rockets,,,home
-2022-03-06,7:00p,Utah Jazz,,Oklahoma City Thunder,,,home
-2022-03-06,7:30p,Toronto Raptors,,Cleveland Cavaliers,,,home
-2022-03-06,8:00p,New Orleans Pelicans,,Denver Nuggets,,,home
-2022-03-06,10:00p,New York Knicks,,Los Angeles Clippers,,,home
-2022-03-07,7:00p,Atlanta Hawks,,Detroit Pistons,,,home
-2022-03-07,7:00p,Chicago Bulls,,Philadelphia 76ers,,,home
-2022-03-07,7:30p,Houston Rockets,,Miami Heat,,,home
-2022-03-07,8:00p,Portland Trail Blazers,,Minnesota Timberwolves,,,home
-2022-03-07,8:30p,Utah Jazz,,Dallas Mavericks,,,home
-2022-03-07,8:30p,Los Angeles Lakers,,San Antonio Spurs,,,home
-2022-03-07,9:00p,Golden State Warriors,,Denver Nuggets,,,home
-2022-03-07,10:30p,New York Knicks,,Sacramento Kings,,,home
+2022-03-02,7:00p,Charlotte Hornets,119.0,Cleveland Cavaliers,98.0,19019.0,away
+2022-03-02,7:00p,Indiana Pacers,122.0,Orlando Magic,114.0,11221.0,away
+2022-03-02,7:30p,New York Knicks,108.0,Philadelphia 76ers,123.0,21333.0,home
+2022-03-02,8:00p,Utah Jazz,132.0,Houston Rockets,127.0,13583.0,away
+2022-03-02,8:00p,Miami Heat,119.0,Milwaukee Bucks,120.0,17341.0,home
+2022-03-02,8:00p,Sacramento Kings,95.0,New Orleans Pelicans,125.0,15490.0,home
+2022-03-02,9:00p,Oklahoma City Thunder,119.0,Denver Nuggets,107.0,15167.0,away
+2022-03-02,10:00p,Portland Trail Blazers,90.0,Phoenix Suns,120.0,17071.0,home
+2022-03-03,7:00p,Chicago Bulls,124.0,Atlanta Hawks,130.0,17522.0,home
+2022-03-03,7:30p,Memphis Grizzlies,107.0,Boston Celtics,120.0,19156.0,home
+2022-03-03,7:30p,Miami Heat,113.0,Brooklyn Nets,107.0,17732.0,away
+2022-03-03,7:30p,Detroit Pistons,108.0,Toronto Raptors,106.0,19548.0,away
+2022-03-03,8:30p,Golden State Warriors,113.0,Dallas Mavericks,122.0,20229.0,home
+2022-03-03,8:30p,Sacramento Kings,115.0,San Antonio Spurs,112.0,13049.0,away
+2022-03-03,10:00p,Los Angeles Lakers,111.0,Los Angeles Clippers,132.0,19068.0,home
+2022-03-04,7:00p,Indiana Pacers,106.0,Detroit Pistons,111.0,17244.0,home
+2022-03-04,7:00p,Cleveland Cavaliers,119.0,Philadelphia 76ers,125.0,21391.0,home
+2022-03-04,7:00p,Atlanta Hawks,117.0,Washington Wizards,114.0,15927.0,away
+2022-03-04,7:30p,Milwaukee Bucks,118.0,Chicago Bulls,112.0,21259.0,away
+2022-03-04,7:30p,Orlando Magic,103.0,Toronto Raptors,97.0,19081.0,away
+2022-03-04,8:00p,Utah Jazz,90.0,New Orleans Pelicans,124.0,16178.0,home
+2022-03-04,8:00p,Minnesota Timberwolves,138.0,Oklahoma City Thunder,101.0,15180.0,away
+2022-03-04,9:00p,Houston Rockets,101.0,Denver Nuggets,116.0,16254.0,home
+2022-03-04,10:00p,New York Knicks,114.0,Phoenix Suns,115.0,17071.0,home
+2022-03-05,5:00p,Sacramento Kings,113.0,Dallas Mavericks,114.0,20060.0,home
+2022-03-05,7:00p,San Antonio Spurs,117.0,Charlotte Hornets,123.0,18941.0,home
+2022-03-05,8:00p,Orlando Magic,96.0,Memphis Grizzlies,124.0,17794.0,home
+2022-03-05,8:00p,Philadelphia 76ers,82.0,Miami Heat,99.0,19704.0,home
+2022-03-05,8:00p,Portland Trail Blazers,121.0,Minnesota Timberwolves,135.0,17136.0,home
+2022-03-05,8:30p,Golden State Warriors,116.0,Los Angeles Lakers,124.0,18997.0,home
+2022-03-06,1:00p,Brooklyn Nets,120.0,Boston Celtics,126.0,19156.0,home
+2022-03-06,3:30p,Phoenix Suns,122.0,Milwaukee Bucks,132.0,17495.0,home
+2022-03-06,6:00p,Indiana Pacers,123.0,Washington Wizards,133.0,13937.0,home
+2022-03-06,7:00p,Memphis Grizzlies,112.0,Houston Rockets,123.0,18055.0,home
+2022-03-06,7:00p,Utah Jazz,116.0,Oklahoma City Thunder,103.0,15079.0,away
+2022-03-06,7:30p,Toronto Raptors,96.0,Cleveland Cavaliers,104.0,19432.0,home
+2022-03-06,8:00p,New Orleans Pelicans,130.0,Denver Nuggets,138.0,14962.0,home
+2022-03-06,10:00p,New York Knicks,116.0,Los Angeles Clippers,93.0,17422.0,away
+2022-03-07,7:00p,Atlanta Hawks,110.0,Detroit Pistons,113.0,14942.0,home
+2022-03-07,7:00p,Chicago Bulls,106.0,Philadelphia 76ers,121.0,20381.0,home
+2022-03-07,7:30p,Houston Rockets,106.0,Miami Heat,123.0,19600.0,home
+2022-03-07,8:00p,Portland Trail Blazers,81.0,Minnesota Timberwolves,124.0,16035.0,home
+2022-03-07,8:30p,Utah Jazz,103.0,Dallas Mavericks,111.0,20077.0,home
+2022-03-07,8:30p,Los Angeles Lakers,110.0,San Antonio Spurs,117.0,18354.0,home
+2022-03-07,9:00p,Golden State Warriors,124.0,Denver Nuggets,131.0,19542.0,home
+2022-03-07,10:30p,New York Knicks,131.0,Sacramento Kings,115.0,14720.0,away
 2022-03-08,7:00p,Brooklyn Nets,,Charlotte Hornets,,,home
 2022-03-08,7:00p,Cleveland Cavaliers,,Indiana Pacers,,,home
 2022-03-08,7:00p,Phoenix Suns,,Orlando Magic,,,home
@@ -981,8 +981,8 @@ date,start,away,away_pts,home,home_pts,attend,winner
 2022-03-09,7:00p,Boston Celtics,,Charlotte Hornets,,,home
 2022-03-09,7:00p,Chicago Bulls,,Detroit Pistons,,,home
 2022-03-09,7:30p,Phoenix Suns,,Miami Heat,,,home
-2022-03-09,7:30p,Atlanta Hawks,,Milwaukee Bucks,,,home
 2022-03-09,8:00p,Los Angeles Lakers,,Houston Rockets,,,home
+2022-03-09,8:00p,Atlanta Hawks,,Milwaukee Bucks,,,home
 2022-03-09,8:00p,Oklahoma City Thunder,,Minnesota Timberwolves,,,home
 2022-03-09,8:00p,Orlando Magic,,New Orleans Pelicans,,,home
 2022-03-09,8:30p,New York Knicks,,Dallas Mavericks,,,home
